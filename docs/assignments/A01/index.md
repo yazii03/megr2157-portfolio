@@ -14,17 +14,17 @@ The engineering portfolio of the Engineer Nathaniel Karau hosted on Github has e
 
 Task B- Product Analysis 
 
-<img width="4000" height="5000" alt="IMG_9431" src="https://github.com/user-attachments/assets/1ff792a9-67ca-4ba6-bcb8-90e507043350" />
+<img width="3000" height="4000" alt="IMG_9431" src="https://github.com/user-attachments/assets/1ff792a9-67ca-4ba6-bcb8-90e507043350" />
 
 For the product analysis I have chosen scissors. A pair of scissors is a tool that consists of two parts which are very similar in looks held together at just one point, about the middle of the product that allows both ends of the product to move when pulled apart on one end. It is use to cut many things like paper or hair there are also other more complex forms of scissor with many other parts to them. 
 
-<img width="4032" height="3024" alt="IMG_9433" src="https://github.com/user-attachments/assets/1eab8bf6-2174-4daf-984d-a6cfbfedf4f7" />
+<img width="3000" height="4000" alt="IMG_9433" src="https://github.com/user-attachments/assets/1eab8bf6-2174-4daf-984d-a6cfbfedf4f7" />
 
 The picture shows the scissors and their availability to open from both the top and the bottom together. Giving people the control of the blades with the movement of their fingers.
 
-<img width="4032" height="3024" alt="IMG_9434" src="https://github.com/user-attachments/assets/8df60793-1601-4fc2-a93c-6d54a576b83c" />
+<img width="3000" height="4000" alt="IMG_9434" src="https://github.com/user-attachments/assets/8df60793-1601-4fc2-a93c-6d54a576b83c" />
 
- <img width="1009" height="993" alt="scissors screw place" src="https://github.com/user-attachments/assets/80a89d03-3b13-42eb-b7a8-681e4a347d1e" />
+ <img width="1009" height="2000" alt="scissors screw place" src="https://github.com/user-attachments/assets/80a89d03-3b13-42eb-b7a8-681e4a347d1e" />
  
 The picture gives a clearer view of the size difference in each component showing how each end meant for your hand was made to allow a certain hold on the scissors. It also shows the hole made on each component that allows the screw to hold them together.
 
