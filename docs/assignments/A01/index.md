@@ -14,7 +14,7 @@ The engineering portfolio of the Engineer Nathaniel Karau hosted on Github has e
 
 Task B- Product Analysis 
 
-<img width="4284" height="5712" alt="IMG_9431" src="https://github.com/user-attachments/assets/1ff792a9-67ca-4ba6-bcb8-90e507043350" />
+<img width="4000" height="5000" alt="IMG_9431" src="https://github.com/user-attachments/assets/1ff792a9-67ca-4ba6-bcb8-90e507043350" />
 
 For the product analysis I have chosen scissors. A pair of scissors is a tool that consists of two parts which are very similar in looks held together at just one point, about the middle of the product that allows both ends of the product to move when pulled apart on one end. It is use to cut many things like paper or hair there are also other more complex forms of scissor with many other parts to them. 
 
@@ -31,6 +31,7 @@ The picture gives a clearer view of the size difference in each component showin
 The second picture shows how one component has a bigger hole while the other one has a plastic piece inserted it to hold the screw in a secure place. Allowing it to properly hold both pieces together without moving around or getting loose. 
 
 <img width="4032" height="3024" alt="IMG_9436" src="https://github.com/user-attachments/assets/7ea5d10a-0521-42fa-a8f5-f68a7c855e08" />
+
 The picture shows a crosshead screw although its very rusty the screw is still in decent shape and has been able to hold the components in place. Its easy to remove and put back if needed as well. 
 
 <img width="82" height="120" alt="US2382341-drawings-scissors" src="https://github.com/user-attachments/assets/e61e954b-02cf-453a-99c2-79e364cf38ba" />
