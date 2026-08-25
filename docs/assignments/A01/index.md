@@ -24,7 +24,7 @@ The picture shows the scissors and their availability to open from both the top 
 
 <img width="3000" height="4000" alt="IMG_9434" src="https://github.com/user-attachments/assets/8df60793-1601-4fc2-a93c-6d54a576b83c" />
 
- <img width="2000" height="3000" alt="scissors screw place" src="https://github.com/user-attachments/assets/80a89d03-3b13-42eb-b7a8-681e4a347d1e" />
+ <img width="2000" height="2300" alt="scissors screw place" src="https://github.com/user-attachments/assets/80a89d03-3b13-42eb-b7a8-681e4a347d1e" />
  
 The picture gives a clearer view of the size difference in each component showing how each end meant for your hand was made to allow a certain hold on the scissors. It also shows the hole made on each component that allows the screw to hold them together.
 
