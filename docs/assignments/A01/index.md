@@ -14,6 +14,35 @@ The engineering portfolio of the Engineer Nathaniel Karau hosted on Github has e
 
 Task B- Product Analysis 
 
+<img width="4284" height="5712" alt="IMG_9431" src="https://github.com/user-attachments/assets/1ff792a9-67ca-4ba6-bcb8-90e507043350" />
+
+For the product analysis I have chosen scissors. A pair of scissors is a tool that consists of two parts which are very similar in looks held together at just one point, about the middle of the product that allows both ends of the product to move when pulled apart on one end. It is use to cut many things like paper or hair there are also other more complex forms of scissor with many other parts to them. 
+
+<img width="4032" height="3024" alt="IMG_9433" src="https://github.com/user-attachments/assets/1eab8bf6-2174-4daf-984d-a6cfbfedf4f7" />
+
+The picture shows the scissors and their availability to open from both the top and the bottom together. Giving people the control of the blades with the movement of their fingers.
+
+<img width="4032" height="3024" alt="IMG_9434" src="https://github.com/user-attachments/assets/8df60793-1601-4fc2-a93c-6d54a576b83c" />
+
+ <img width="1009" height="993" alt="scissors screw place" src="https://github.com/user-attachments/assets/80a89d03-3b13-42eb-b7a8-681e4a347d1e" />
+ 
+The picture gives a clearer view of the size difference in each component showing how each end meant for your hand was made to allow a certain hold on the scissors. It also shows the hole made on each component that allows the screw to hold them together.
+
+The second picture shows how one component has a bigger hole while the other one has a plastic piece inserted it to hold the screw in a secure place. Allowing it to properly hold both pieces together without moving around or getting loose. 
+
+<img width="4032" height="3024" alt="IMG_9436" src="https://github.com/user-attachments/assets/7ea5d10a-0521-42fa-a8f5-f68a7c855e08" />
+The picture shows a crosshead screw although its very rusty the screw is still in decent shape and has been able to hold the components in place. Its easy to remove and put back if needed as well. 
+
+<img width="82" height="120" alt="US2382341-drawings-scissors" src="https://github.com/user-attachments/assets/e61e954b-02cf-453a-99c2-79e364cf38ba" />
+
+I was not able to find the patents for the exact brand of scissors I own but i did find a patent for scissors like the ones used in my analysis. The patent number is US2382341A and the patent author is Francis A Snell. 
+
+Since the primary function of scissors is to cut objects or materials there are other alternatives that do the same thing. 
+- A simple or pocket knife is also a tool that can be used to easily cut objects or materials.
+- A box cutter is another tool that can be used for cutting materials.
+
+A design decision that the original engineer made is the position of where the screw would go to hold in both parts of the scissor. I think the decision to place the screw in the location he did being right about the middle is very important because it gave almost the same amount of expansion to both sides of the scissors, the blades and the plastic that your fingers hold. If it had been anywhere closer to the blades or closer to the plastic they wouldn't have the same mobility. 
+
 ## Decide
 Homepage Identity- My homepage contains a section where I explain to anyone that reads it what this portfolio is and why it was made. It's  important to have something where I get to talk to anyone that reads it and explain in my own words the contents of the portfolio. My homepage is straightforward I added a where they could read about me and who I am. Its also easy to understand and explains the sections between the assignments and breaks them into groups for better understanding.
 
@@ -23,4 +52,4 @@ My Documentation Standard- I will be as thorough as possible in my documentation
 
 
 ## Communicate
-
+This section was completed in the "All about me" portion. 
