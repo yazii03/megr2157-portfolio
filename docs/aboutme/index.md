@@ -4,4 +4,4 @@ My name is Yazahira Flores Jasso. I am a First generation Mexican American and c
 
 To defend and Engineering decision means to fully understand that decision in order to be able to explain your decision and how that decision came to be. To defend an engineering decision means to back up your decision with facts and knowledge about it. If one doesn't know why a decision was made or what led to that decision then one cant defend it. I honestly don't believe i currently know how to fully defend an Engineering decision. 
 
-I spent around 8 hours in the span of two days on this assignment. 
+I spent around 8 hours on this assignment. 
