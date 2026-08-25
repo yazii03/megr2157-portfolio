@@ -2,7 +2,7 @@
 
 ![MEGR 2156-7 Title](MEGR2156title.png)
 
-This site is the working record of your engineering design decisions across MEGR 2157. Every entry follows the Analyze, Decide, Communicate structure in accordance with standard engineering documentation practice, so a reader can see not just what you built, but how and why you built it that way. Engineering documentation is a skill developed through deliberate practice. Each assignment is an opportunity to improve the precision, clarity, and professional quality of how you record and defend your work. As you progress through the semester your engineering capability will grow alongside your documentation — this portfolio is the record of that journey.
+This portfolio is the record of my engineering design decisions throughout the course MEGR 2157 it will allow me to practice my engineering documentation skills while also giving me chance to document my progress. This portfolio includes assignments from this course along with entries that follow an Analyze, Decide, and Communicate structure to help explain not only my designs but my thought process and reasonings behind them. 
 
 > **Engineering is the art of making decisions you can defend.**
 
@@ -13,6 +13,8 @@ Most assignment pages are organized around:
 - **Analyze** — the calculations, models, and data behind your design.
 - **Decide** — the choice you made and, critically, the reasoning for it.
 - **Communicate** — the drawings, report, and presentation you'd hand to a client.
+
+Click the "About me" tab to learn more about the person behind this portfolio. 
 
 Use the navigation on the left to move between assignments.
 
