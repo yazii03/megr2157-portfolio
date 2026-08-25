@@ -18,7 +18,7 @@ Task B- Product Analysis
 
 For the product analysis I have chosen scissors. A pair of scissors is a tool that consists of two parts which are very similar in looks held together at just one point, about the middle of the product that allows both ends of the product to move when pulled apart on one end. It is use to cut many things like paper or hair there are also other more complex forms of scissor with many other parts to them. 
 
-<img width="3000" height="4000" alt="IMG_9433" src="https://github.com/user-attachments/assets/1eab8bf6-2174-4daf-984d-a6cfbfedf4f7" />
+<img width="1920" height="2500" alt="IMG_9433" src="https://github.com/user-attachments/assets/1eab8bf6-2174-4daf-984d-a6cfbfedf4f7" />
 
 The picture shows the scissors and their availability to open from both the top and the bottom together. Giving people the control of the blades with the movement of their fingers.
 
