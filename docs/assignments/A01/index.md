@@ -15,11 +15,11 @@ The engineering portfolio of the Engineer Nathaniel Karau hosted on Github has e
 Task B- Product Analysis 
 
 ## Decide
-Homepage Identity-
+Homepage Identity- My homepage contains a section where I explain to anyone that reads it what this portfolio is and why it was made. It's  important to have something where I get to talk to anyone that reads it and explain in my own words the contents of the portfolio. My homepage is straightforward I added a where they could read about me and who I am. Its also easy to understand and explains the sections between the assignments and breaks them into groups for better understanding.
 
-One Intentional Customization- 
+One Intentional Customization- I decided to change the opening statement in the homepage that came with the template. I decided to do this because I wanted the homepage to have a message that was as if I was talking to the reader and telling them about my portfolio instead of the paragraph from the template that was referring to me and more for my understanding instead. 
 
-My Documentation Standard- I will be as thorough as possible in my documentation making it easy to understand 
+My Documentation Standard- I will be as thorough as possible in my documentation making it easy to understand while using the analyze, decide and communicate structure. 
 
 
 ## Communicate
