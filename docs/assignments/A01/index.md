@@ -24,7 +24,7 @@ The picture shows the scissors and their availability to open from both the top 
 
 <img width="3000" height="4000" alt="IMG_9434" src="https://github.com/user-attachments/assets/8df60793-1601-4fc2-a93c-6d54a576b83c" />
 
- <img width="1009" height="2000" alt="scissors screw place" src="https://github.com/user-attachments/assets/80a89d03-3b13-42eb-b7a8-681e4a347d1e" />
+ <img width="2000" height="1000" alt="scissors screw place" src="https://github.com/user-attachments/assets/80a89d03-3b13-42eb-b7a8-681e4a347d1e" />
  
 The picture gives a clearer view of the size difference in each component showing how each end meant for your hand was made to allow a certain hold on the scissors. It also shows the hole made on each component that allows the screw to hold them together.
 
@@ -34,7 +34,7 @@ The second picture shows how one component has a bigger hole while the other one
 
 The picture shows a crosshead screw although its very rusty the screw is still in decent shape and has been able to hold the components in place. Its easy to remove and put back if needed as well. 
 
-<img width="82" height="120" alt="US2382341-drawings-scissors" src="https://github.com/user-attachments/assets/e61e954b-02cf-453a-99c2-79e364cf38ba" />
+<img width="4032" height="3024" alt="US2382341-drawings-scissors" src="https://github.com/user-attachments/assets/e61e954b-02cf-453a-99c2-79e364cf38ba" />
 
 I was not able to find the patents for the exact brand of scissors I own but i did find a patent for scissors like the ones used in my analysis. The patent number is US2382341A and the patent author is Francis A Snell. 
 
