@@ -84,7 +84,9 @@ An expected failure of the pin in a truss is for it to snap or break which can b
   Work cited
   
  AEP, EVstudio. “Structural Failures to Watch out for While Designing.” EVstudio, 3 Aug. 2017, evstudio.com/structural-failures-to-watch-out-for-while-designing/.
+ 
  Staff, Fire Engineering. “Construction Concerns: Truss Failure.” Fire Engineering: Firefighter Training and Fire Service News, Rescue, 30 Aug. 2024, www.fireengineering.com/fire-safety/construction-concerns-truss-failure/. 
+ 
  “7 Dowel Pin Shear Strength Facts – Load Formula & Failure Limits Guide.” Rajal Industries, 29 Apr. 2026, rajalindustries.com/dowel-pin-shear-strength-chart-load-formula-failure-limits-explained/. 
 
  
