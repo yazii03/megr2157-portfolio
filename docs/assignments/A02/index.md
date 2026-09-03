@@ -65,11 +65,15 @@ I then added the lines and connected my joints fully creating the sketch of my t
 
 I offset the lines to fully cover the beams and have them be inside the elements like they would be connecting them in a truss. I added my measurements to show the length of the elements. I converted them all to mm to show it in a bigger scale. I couldnt turn it into a 3d model and i couldn't figure out why it wouldn't let me fix it or change it into one. I left it like that but will figure out how to fix it and update this once it is done. 
 
+
+
+
+
 Engineering lesson learned-
 
 I learned to really pay attention to detail when working on making a design. I learned new ways to calculate the area of a truss and its pins during this assignment as well and the shear in pins which i wasn't exactly sure how to do. It really helped me get a better understanding of how to go about it. 
 
-  likelihood of failure Modes in Truss Components
+  Likelihood of failure Modes in Truss Components
 
 The expected failure in the elements experiencing compression is buckling. If the load becomes to much for the element it will start buckling and fail. On the other hand the elements that experience too much tension will start yielding and fail. The material used for this truss in A500 constructible steel which is a ductile material. A design change that could prevent these failures could be adding members where needed in order to prevent too much tension or compression on a single element. 
 
@@ -78,12 +82,10 @@ Pin connections
 An expected failure of the pin in a truss is for it to snap or break which can be caused by an excess in shear load. if the pin experiences more load than it can take acting on it, it could snap in half. A modification that could be made is making the diameter of the pin bigger to allow it to hold more load. Making it a double shear pin could also help it prevent snapping and distribute the load. 
 
   Work cited
+  
+ AEP, EVstudio. “Structural Failures to Watch out for While Designing.” EVstudio, 3 Aug. 2017, evstudio.com/structural-failures-to-watch-out-for-while-designing/.
+ Staff, Fire Engineering. “Construction Concerns: Truss Failure.” Fire Engineering: Firefighter Training and Fire Service News, Rescue, 30 Aug. 2024, www.fireengineering.com/fire-safety/construction-concerns-truss-failure/. 
+ “7 Dowel Pin Shear Strength Facts – Load Formula & Failure Limits Guide.” Rajal Industries, 29 Apr. 2026, rajalindustries.com/dowel-pin-shear-strength-chart-load-formula-failure-limits-explained/. 
 
  
-
-
-## Decide
-_Which geometry did you select, and why? This is your first open design choice in the course — defend it._
-
-## Communicate
 
