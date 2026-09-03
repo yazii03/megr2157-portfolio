@@ -65,8 +65,9 @@ I then added the lines and connected my joints fully creating the sketch of my t
 
 I offset the lines to fully cover the beams and have them be inside the elements like they would be connecting them in a truss. I added my measurements to show the length of the elements. I converted them all to mm to show it in a bigger scale. I couldnt turn it into a 3d model and i couldn't figure out why it wouldn't let me fix it or change it into one. I left it like that but will figure out how to fix it and update this once it is done. 
 
+[Solidworks-a1.pdf](https://github.com/user-attachments/files/31809152/Solidworks-a1.pdf)
 
-
+This is the pdf to my model. 
 
 
 Engineering lesson learned-
@@ -83,11 +84,11 @@ An expected failure of the pin in a truss is for it to snap or break which can b
 
   Work cited
   
- AEP, EVstudio. “Structural Failures to Watch out for While Designing.” EVstudio, 3 Aug. 2017, evstudio.com/structural-failures-to-watch-out-for-while-designing/.
+ AEP, EVstudio. “Structural Failures to Watch out for While Designing.” EVstudio, 3 Aug. 2017, https://evstudio.com/structural-failures-to-watch-out-for-while-design
  
  Staff, Fire Engineering. “Construction Concerns: Truss Failure.” Fire Engineering: Firefighter Training and Fire Service News, Rescue, 30 Aug. 2024, www.fireengineering.com/fire-safety/construction-concerns-truss-failure/. 
  
- “7 Dowel Pin Shear Strength Facts – Load Formula & Failure Limits Guide.” Rajal Industries, 29 Apr. 2026, rajalindustries.com/dowel-pin-shear-strength-chart-load-formula-failure-limits-explained/. 
+ “7 Dowel Pin Shear Strength Facts – Load Formula & Failure Limits Guide.” Rajal Industries, 29 Apr. 2026, https://rajalindustries.com/dowel-pin-shear-strength-chart-load-formula-failure-limits-explained/
 
  
 
