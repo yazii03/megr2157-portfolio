@@ -87,7 +87,9 @@ I decided to begin by putting together feature 1. I thought it'd be easiest to s
 
 
 <img width="951" height="500" alt="Screenshot 2026-09-16 235007" src="https://github.com/user-attachments/assets/4e7405e4-7985-4cce-9b51-decabd3b3bf1" />
-<img width="951" height="500" alt="Screenshot 2026-09-16 235007" src="https://github.com/user-attachments/assets/cb5af521-5171-48cc-8421-ad8733107bb0" />
+
+
+<img width="951" height="500" alt="Screenshot 2026-09-16 235029" src="https://github.com/user-attachments/assets/5bed1315-3191-4180-98c4-442e6776424f" />
 
 
 I followed by adding in Feature two and connecting it to feature one. I used the parametric equations once again to in
@@ -152,6 +154,11 @@ Link for File:
 
 For this part I used my 3d model fine and turned it into a multiview drawing. 
 The scale used was in mm.
+
+
+<img width="541" height="353" alt="Screenshot 2026-09-17 031758" src="https://github.com/user-attachments/assets/28a884fb-8c38-4148-9dfd-00635b7b0733" />
+
+
 PDF:
 
 [A4_DrawingMultview.pdf](https://github.com/user-attachments/files/32323522/A4_DrawingMultview.pdf)
