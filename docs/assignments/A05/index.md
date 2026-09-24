@@ -72,6 +72,20 @@ A value during the stress analysis in the thickness of part B was also the same 
 2157 Students: Fits
 
 
+<img width="524" height="329" alt="Screenshot 2026-09-24 003757" src="https://github.com/user-attachments/assets/1be2f4f2-a5e9-4211-9364-8d82875a2a7c" />
+
+I decided to keep using the same material for this part as the design i made before so i kept that the same which was steel A36 and i also decided to keep the loading force the same at 600 lbf. 
+
+I designed this link to be 3.5in. in length. I made the first hole slighly bigger than the diameter of feature a at 1.2in in diameter since it needed to have a sliding/ running fit and the second hole i made it the same as the diameter of the 1.0in shaft. I used the stress and deflection equations to find the cross area of the link. 
+
+Feature A fit:
+
+Since the design calls for  a running/ sliding fit I chose class RC3 with  tolerance limits of hole H7. I chose Turning for its machining process since it was the cheapest option that could fir my tolerance grade. I used the Machinery Handbook pages 649 and 653 for this step. 
+
+
+1.0 in shaft:
+
+Since there should be a slight assembly pressure for this part in the design i chose class FN3 with tolerance limits hole H7. For this process i chose turning again. I used the Machinery Handbook for this section too pages 649 and 658. 
 
 
 
