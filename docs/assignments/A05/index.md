@@ -1,6 +1,6 @@
 # A5 – Bracket Design
 
-## Objective : Conduct stiffness analysis while creating FBDs of different members of a bracket. Being able to document known and unknown variables with close detail to fins unknown variables Lastly creating multiview sketches with good detail showing dimensions. 
+## Objective : Conduct stiffness analysis while creating FBDs of different members of a bracket. Being able to document known and unknown variables with close detail to find unknown variables Lastly creating multiview sketches with good detail showing dimensions. 
 
 Part 1: Calculating Dimensions from stress Analysis 
 
