@@ -99,7 +99,7 @@ CAD Model
 
 <img width="612" height="483" alt="Screenshot 2026-09-30 215218" src="https://github.com/user-attachments/assets/7d76ac7e-f700-431a-b13e-da22eeeef0db" />
 
-
+<img width="620" height="349" alt="Screenshot 2026-09-30 224607" src="https://github.com/user-attachments/assets/db991af4-25d6-4c0d-8af9-26fdffcb261e" />
 
 
 Before I began with my model I made sure I specified what material i was using. I also plugged in parametric equations in order to use them to make my model and get the measurements correct.
