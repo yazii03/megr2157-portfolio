@@ -196,6 +196,7 @@ This is the final design after the 3 inner loops and change in geometry of the m
 <img width="950" height="500" alt="Screenshot 2026-10-16 221832" src="https://github.com/user-attachments/assets/94ec597e-8e88-43b2-aaea-3eb631e2d993" />
 
 
+
 Reflection: 
 
 
