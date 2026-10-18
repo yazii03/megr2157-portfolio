@@ -37,7 +37,7 @@ Once I made sure my material was set. I started a simulation on my model. I adde
 When I ran the simulation these were resulting Stress, displacement, and strain graphs. 
 
 
-<img width="1414" height="2000" alt="Add a subheading" src="https://github.com/user-attachments/assets/05fb0b0f-3ca1-4204-bc14-7be162ebc7e4" />
+<img width="1414" height="2000" alt="Coarse design 1" src="https://github.com/user-attachments/assets/adc12b4d-352a-45f0-902e-0e4ae0d75155" />
 
 
 I then created another mesh but this time the mesh was right in between a coarse and fine mesh. 
