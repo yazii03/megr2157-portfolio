@@ -203,43 +203,154 @@ Reflection:
 I learned how to to work the FEA a lot better. I got a lot pf practice using it during this assignment and it helped me learn more amount how to use it and how changing just a small aspect of my model could affect things like the stress, displacement, and strain by a lot. I also learned how the finer the mesh in a simulation helps get more accurate results in the graphs during an FEA so it'd be best to use fine mesh for simulations. I spent around 3-4 hrs completing this assignment. 
 
 
+File link:
+
+[A6_New.zip](https://github.com/user-attachments/files/33640348/A6_New.zip)
 
 
 
 
+2157 Only:
+
+ For this portion of the assignment I will follow the same process but on the link I made for the past assignment this time. 
+
+Inner loop 1:
+
+Before i began i made sure my link had a material assigned to it. 
+
+<img width="612" height="483" alt="Screenshot 2026-10-18 152143" src="https://github.com/user-attachments/assets/8e37f10b-bdd2-4b2b-bba0-304c4e8e7d89" />
+
+
+I then started a simulation on my link, i added the sliding fit and the load and created a coarse mesh on my link. 
+
+
+<img width="950" height="500" alt="Screenshot 2026-10-18 004947" src="https://github.com/user-attachments/assets/5bf99695-3f52-41f7-bccf-c62e3c3e1cf5" />
+
+
+After running the simulation these were the graphs created for Stress, displacement, and strain. 
+
+
+<img width="1414" height="2000" alt="design 1 -coarse" src="https://github.com/user-attachments/assets/45428c37-3864-47f5-8264-bcf7663060fd" />
+
+
+I started another simulation but this time I created a medium coarse mesh and ran the study. 
+
+
+<img width="950" height="500" alt="Screenshot 2026-10-18 005238" src="https://github.com/user-attachments/assets/b063880d-670a-4b00-af14-f46ab200163d" />
+
+
+From this study these were the resulting graphs. 
+
+
+<img width="1414" height="2000" alt="desing 1" src="https://github.com/user-attachments/assets/7c79cbc9-2862-4ef5-be24-c5771527e42a" />
+
+
+I then tested for convergence. I needed below 7% for convergence which i was able to achieve so I did not run another simulation after on this first design. 
+
+
+<img width="212" height="100" alt="Screenshot 2026-10-18 152315" src="https://github.com/user-attachments/assets/1f871eb4-6ca7-44a4-a256-51ecf4762f2c" />
+
+
+Final values chart:
+
+
+<img width="370" height="151" alt="Screenshot 2026-10-18 152325" src="https://github.com/user-attachments/assets/a0d10a44-f861-4a7d-b444-c158e0031b1a" />
+
+Inner loop 2: Design change 
+
+
+I changed the geometry of my link by making it a little thicker which i thought would help a little. 
+I followed by adding my load and sliding feature on it and creating a coarse mesh on my link. 
+
+
+<img width="950" height="500" alt="Screenshot 2026-10-18 012250" src="https://github.com/user-attachments/assets/b0ab3992-411e-4ce7-93ed-942708ca4c29" />
+
+
+<img width="950" height="500" alt="Screenshot 2026-10-18 012450" src="https://github.com/user-attachments/assets/53bd9565-4af6-4f28-bcdd-7e32312b630a" />
 
 
 
+I ran the simulation and these were the resulting graphs. 
+
+
+<img width="1414" height="2000" alt="coarse design 2 (1)" src="https://github.com/user-attachments/assets/8ce6475f-2155-4e75-8d6e-a20b9ec02318" />
+
+
+I then ran another study but this time w a medium coarse mesh and these were my results. 
+
+
+<img width="950" height="500" alt="Screenshot 2026-10-18 013103" src="https://github.com/user-attachments/assets/1806c2dd-4e72-42ed-b13c-9dadeeb0984a" />
+
+
+<img width="1414" height="2000" alt="design 2" src="https://github.com/user-attachments/assets/4b12bd59-0026-4aae-9013-b2a758e65455" />
+
+
+I followed by testing for converge which i did since my results were below 7% so i did not follow with another study w a fine mesh size. 
+
+
+<img width="212" height="93" alt="Screenshot 2026-10-18 152336" src="https://github.com/user-attachments/assets/579f10ea-698a-41d4-ae6b-de75178ae4d6" />
 
 
 
+Final value chart:
+
+
+<img width="369" height="151" alt="Screenshot 2026-10-18 152345" src="https://github.com/user-attachments/assets/27fc5c44-4567-496c-9435-8785dcb4f2b0" />
 
 
 
+Inner loop 3: Design change 
+
+
+I decided to make my link longer since i had made it a little thicker in the design before. 
+
+I started another simulation, I added the load and sliding feature and created a coarse mesh for my link. 
+
+
+<img width="950" height="500" alt="Screenshot 2026-10-18 014717" src="https://github.com/user-attachments/assets/a4df2011-ab4c-4591-b451-066e54b078b8" />
+
+
+I ran the study and these were my resulting graphs. 
+
+
+<img width="1414" height="2000" alt="coarse design 3 (1)" src="https://github.com/user-attachments/assets/fb44a2eb-2d53-49ac-909b-0aa0ede90688" />
+
+
+I then ran another study but this time w the medium coarse mesh and these were the resulting graphs. 
+
+
+<img width="950" height="500" alt="Screenshot 2026-10-18 015354" src="https://github.com/user-attachments/assets/ca2dbd20-1d1e-4745-bd22-eadd349c0211" />
+
+
+<img width="1414" height="2000" alt="design 3" src="https://github.com/user-attachments/assets/0519726c-6a95-4071-a715-1b329c266d33" />
+
+
+I followed by testing for convergence and these were my results. Since the difference was below 7% and there was convergence i did not follow by another simulation. 
+
+
+<img width="211" height="91" alt="Screenshot 2026-10-18 152352" src="https://github.com/user-attachments/assets/6f63b22c-21dd-4e59-a07a-5b3c096201db" />
+
+
+Final values chart:
+
+
+<img width="368" height="153" alt="Screenshot 2026-10-18 152403" src="https://github.com/user-attachments/assets/f3ce711c-1d64-4463-8fda-b8ab6bbc7d10" />
+
+
+My final design looked like this. 
+
+
+<img width="950" height="500" alt="Screenshot 2026-10-18 152200" src="https://github.com/user-attachments/assets/2752723a-30a3-4b30-b3d0-91805c3d8a82" />
 
 
 
+Reflections:
+ I spent about an 2 hrs on this part of the assignment. 
 
 
+Link file:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[A6_link_new.zip](https://github.com/user-attachments/files/33640730/A6_link_new.zip)
 
 
 
