@@ -56,10 +56,15 @@ After choosing my material i can now find the thickness of my bearing which.
 
 <img width="386" height="275" alt="Screenshot 2026-10-27 210100" src="https://github.com/user-attachments/assets/216af66d-bfff-4a1a-abe7-167b228cdb0f" />
 
+I selected the dry-running sleek bearing from McMaster-Carr as the one that best suits my piece. 
 
 
+Sketch:
 
 
+Finally, before starting my Cad model i made a rough sketch of what my gear box will look like. I decided to make it a basic squared shape that will be held together by bold and nuts. I looked at many design but thought a basic squared box that's secured at each side would be good for this design. 
+
+<img width="305" height="206" alt="Screenshot 2026-10-27 210106" src="https://github.com/user-attachments/assets/837fcbe3-31ff-4c25-b3fb-e0772dd0da6c" />
 
 
 
