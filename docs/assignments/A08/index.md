@@ -46,10 +46,15 @@ When I finished finding all my unknown values needed i followed the same process
 
 
 
+When my calculations where all done I  needed to choose a material for the bearings. I used the table in the handbook and decided to choose Phenolics as the material because the max for the load capacity, V max and PV are all bigger than what's needed and will give me a bigger safety factor. 
 
 
+<img width="427" height="275" alt="Screenshot 2026-10-27 183702" src="https://github.com/user-attachments/assets/0c92fe3c-9715-417c-9eb4-bc7f64146f2c" />
+
+After choosing my material i can now find the thickness of my bearing which. 
 
 
+<img width="386" height="275" alt="Screenshot 2026-10-27 210100" src="https://github.com/user-attachments/assets/216af66d-bfff-4a1a-abe7-167b228cdb0f" />
 
 
 
