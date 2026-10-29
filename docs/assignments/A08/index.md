@@ -64,9 +64,112 @@ Sketch:
 
 Finally, before starting my Cad model i made a rough sketch of what my gear box will look like. I decided to make it a basic squared shape that will be held together by bold and nuts. I looked at many design but thought a basic squared box that's secured at each side would be good for this design. 
 
-<img width="305" height="206" alt="Screenshot 2026-10-27 210106" src="https://github.com/user-attachments/assets/837fcbe3-31ff-4c25-b3fb-e0772dd0da6c" />
 
 
+<img width="425" height="289" alt="Screenshot 2026-10-28 221427" src="https://github.com/user-attachments/assets/44576b1d-a8a2-45ea-a94d-cf4e67ae3860" />
+
+
+Lessons learned:
+
+I learned a lot during this assignment. I had never worked with anything i had import into solid works before so this taught me how to do it and get it into my model. I've also never assembled a multipart model before so this was my first time working with multiple pieces and having to put them all together to build the final piece. It gave me practice and taught me to be careful when assembling a model and be patience. Its better not to rush the process.
+
+
+
+CAD Model:
+
+The first step i made when designing my cad model was making the top part of the gear box which would house the gears and hold the shafts.
+
+
+
+
+<img width="467" height="325" alt="Screenshot 2026-10-28 102705" src="https://github.com/user-attachments/assets/207f9d3c-38af-4c1a-a476-dcb79ebfda0d" />
+
+
+I followed by adding the shafts needed to hold the gears and the holes on the box that would be used to hold it together with the bottom part. 
+
+
+
+<img width="950" height="485" alt="Screenshot 2026-10-28 202215" src="https://github.com/user-attachments/assets/ef492733-a30d-4cd6-b4e2-f66db5502d78" />
+
+
+
+<img width="950" height="485" alt="Screenshot 2026-10-28 210332" src="https://github.com/user-attachments/assets/2e39b67c-5167-440e-a805-d801d20250ea" />
+
+
+I then inserted the gears chosen in McMaster-Carr for this assignment. 
+
+
+<img width="443" height="249" alt="Screenshot 2026-10-28 191139" src="https://github.com/user-attachments/assets/0c7b1155-2b59-4d7d-b545-9e609b8b472b" />
+
+
+I aligned them with the shafts. 
+
+
+
+<img width="950" height="485" alt="Screenshot 2026-10-28 210633" src="https://github.com/user-attachments/assets/a10bc440-af22-48a4-8ba2-3172268ec483" />
+
+
+
+I then designed the bottom part of the box and added it to my assembly. I fixed it so they aligned and we could see what the whole box would look like once closed. 
+
+<img width="950" height="485" alt="Screenshot 2026-10-28 213339" src="https://github.com/user-attachments/assets/ab763826-3111-4f2e-b6b9-c2845e774d61" />
+
+
+I made the bottom transparent so the inside gears could be visible. 
+
+
+<img width="950" height="485" alt="Screenshot 2026-10-28 213434" src="https://github.com/user-attachments/assets/e35a7944-06f5-43ce-ba9f-de8bd3f7271e" />
+
+
+<img width="950" height="485" alt="Screenshot 2026-10-28 213510" src="https://github.com/user-attachments/assets/ffe0ecf5-577c-4e04-8f91-06640218bdf8" />
+
+
+2150 ONLY:
+
+For this part I made Multiview drawings of my gearbox. However i wasn't sure how to make a drawing for the shafts by themselves for this part since i built it all in one piece together w the top part of the gearbox. 
+
+
+this is the drawing for the top of my gearbox
+
+
+
+<img width="950" height="485" alt="Screenshot 2026-10-28 222745" src="https://github.com/user-attachments/assets/d3bf0735-def7-4f2c-8baf-b8c2004979f3" />
+
+
+
+This is a drawing for the bottom part that holds the shafts
+
+
+<img width="950" height="485" alt="Screenshot 2026-10-28 220903" src="https://github.com/user-attachments/assets/c08dd679-2ae8-498b-8af6-0374f28cfac0" />
+
+
+
+
+Files:
+
+
+Final assembly:
+
+  [Assemgearbox.zip](https://github.com/user-attachments/files/34109560/Assemgearbox.zip)
+
+
+Bottom of gearbox :
+
+
+[A8-bottom.zip](https://github.com/user-attachments/files/34109674/A8-bottom.zip)
+
+Top of gearbox and shafts:
+
+[A8.zip](https://github.com/user-attachments/files/34109672/A8.zip)
+
+
+
+Top and bottom drawing:
+
+[A8- top drawing.zip](https://github.com/user-attachments/files/34109518/A8-.top.drawing.zip)
+
+
+[A8- Bottom Drawing.zip](https://github.com/user-attachments/files/34109516/A8-.Bottom.Drawing.zip)
 
 
 
