@@ -51,14 +51,18 @@ After my final calculations i chose the material for it which is rubber. It matc
 
 Frame Analysis- 
 
+For the frame i used the design provided from Appendix A. The values like the space between the pulleys were already provided so it wasn't i went from  there. 
+Since the space between the pulleys is 6 in i decided to make the frame 8 inches long to add more space around the holes for the shafts and bearings. Since the diameter for the shaft is 0.46 in i made it a little bigger. 
+
+
+<img width="723" height="297" alt="Screenshot 2026-11-05 013415" src="https://github.com/user-attachments/assets/5ef1e4b6-b2d6-4685-8b2b-7107ee86a75b" />
 
 
 
 Engineering Lessons- 
 
 
-
-
+This assignment helped me realize more about how many things and values just really connect when making a design. There's always a process that needs to be followed and done the right way in order to find another value or follow the next step. Like always i need to learn to be more patient and assignments like this one where i need to follow a specific process teach me more and more about being patient and how important it is in designing. I also need to give myself more time to do things and take the time i really need to not rush. 
 
 
 
