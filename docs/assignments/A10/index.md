@@ -7,7 +7,7 @@ The task was to assemble a quasi-tensile tester by designing a screw-drive cross
 
 ## Lead Screw - Yazahira
 
-1) In order to select my leadscrew I first have to find the minimum diameter needed for the leadscrew. I used the axial stress analysis equations to find the minimum diameter needed.
+1) In order to select my leadscrew I first have to find the minimum diameter needed for the leadscrew. I used the axial stress analysis equations to find the minimum diameter needed. We did end up choosing steel as the material and used the yield strength and friction factor for this material in order to solve for the values. 
 
    <img width="871" height="606" alt="image" src="https://github.com/user-attachments/assets/a5b5b9e6-8b75-49af-995c-00d7af011560" />
 
