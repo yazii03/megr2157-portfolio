@@ -55,6 +55,10 @@ In order to select the Nut/Flange for this assignment I had to the minimum amoun
 
 3) Multiview Paper Sketch
 
+
+<img width="455" height="201" alt="Screenshot 2026-11-11 180225" src="https://github.com/user-attachments/assets/8a92cbe6-8947-4cf8-aec4-0bbf0e5db1fd" />
+
+
 ## Costs - Milena
 Table
 
