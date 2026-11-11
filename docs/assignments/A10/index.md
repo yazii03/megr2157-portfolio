@@ -79,6 +79,14 @@ Table
 During the CAD model design process, we reduced the scale of thre T-
 
 
+
+<img width="950" height="485" alt="Screenshot 2026-11-11 130505" src="https://github.com/user-attachments/assets/7d4f72a9-30fe-416c-ad41-3107aa0e6c7f" />
+
+
+<img width="950" height="485" alt="Screenshot 2026-11-11 130516" src="https://github.com/user-attachments/assets/8ddd9f37-246a-4b86-8029-5efd373c2274" />
+
+
+
 ## MEGR 2157 - FEA - Yazahira
 
 For the FEA I  took the crosshead that was designed by Milena and added the load and proper fixed features on it. 
