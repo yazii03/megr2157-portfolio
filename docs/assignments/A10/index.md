@@ -79,6 +79,7 @@ Table
 During the CAD model design process, we reduced the scale of thre T-
 
 
+This is what the final assembly with all the parts provided and crosshead I designed. 
 
 <img width="950" height="485" alt="Screenshot 2026-11-11 130505" src="https://github.com/user-attachments/assets/7d4f72a9-30fe-416c-ad41-3107aa0e6c7f" />
 
