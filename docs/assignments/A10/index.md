@@ -135,7 +135,7 @@ SF = 1.19%
 They are all below 7% which means they converged. 
 
 
-Even though there was convergence I decided to make my piece thick from 1 in to 1.5 inches. I though this would change the max stress in the middle of the part. I did make sure that after this change the part still met the constrains required. 
+Even though there was convergence I decided to make the piece thicker, from 1 in to 1.5 inches. I though this would help decrease the max stress in the middle of the part. I did make sure that after this change the part still met the constrains required. 
 
 
 I created a fine mesh to begin the simulation.
