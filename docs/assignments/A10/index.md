@@ -32,9 +32,10 @@ The determine torque at this speed
 
 6) After finishing  up all my calculations and finding all my missing values I was able to select my screw. Based on the minimum required height of 18 in. and my minimum diameter I decided to choose the acme leadscrew below made of carbon steel. I thought it'd be the best fit for the assignment. 
 
-<img width="960" height="504" alt="Screenshot 2026-11-11 171830" src="https://github.com/user-attachments/assets/e85f1926-3a31-4c2f-a203-386890d65c15" />
 
-   
+<img width="960" height="436" alt="Screenshot 2026-11-11 171830" src="https://github.com/user-attachments/assets/fcc72e62-cb8e-440b-bcde-d1204f3debd5" />
+
+
 
 ## Nut and Flange - Yazahira
 
