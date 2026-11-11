@@ -38,7 +38,8 @@ The determine torque at this speed
 
 In order to select the Nut/Flange for this assignment I had to the minimum amount of threads that'd be able to support the load required of 2kN. After finishing the calculations i choose the Nut Flange that i thought would be the best fit. 
 
-<img width="461" height="273" alt="Screenshot 2026-11-11 172337" src="https://github.com/user-attachments/assets/5ab6bf32-69c7-4ef3-afe3-a4f720f808a3" />
+
+<img width="472" height="323" alt="Screenshot 2026-11-11 173143" src="https://github.com/user-attachments/assets/de87cc28-de04-40b1-a928-5d1618dfb1f4" />
 
 
 <img width="958" height="437" alt="Screenshot 2026-11-11 172810" src="https://github.com/user-attachments/assets/1cbe162d-16ba-4353-a196-08e982eb0aeb" />
@@ -72,6 +73,72 @@ During the CAD model design process, we reduced the scale of thre T-
 
 
 ## MEGR 2157 - FEA - Yazahira
+
+For the FEA I  took the crosshead that was designed by Milena and added the load and proper fixed features on it. 
+
+
+<img width="960" height="504" alt="Screenshot 2026-11-11 164231" src="https://github.com/user-attachments/assets/1ffe74d8-705d-430e-9c20-d945e19b3ea0" />
+
+
+I created a medium coarse mesh to run the first FEA on this part. 
+
+
+<img width="960" height="504" alt="Screenshot 2026-11-11 164442" src="https://github.com/user-attachments/assets/7f4d2d1f-4801-4610-b4a1-4d5549ba0494" />
+
+After running my simulation these where the graphs provided for Von Misses stress and Deflection. Based on the the values derived the safety factor is 9.5.
+
+
+
+<img width="960" height="504" alt="Screenshot 2026-11-11 164650" src="https://github.com/user-attachments/assets/6c58754a-7cc9-404c-b7f8-1d52104c1710" />
+
+
+<img width="960" height="504" alt="Screenshot 2026-11-11 164719" src="https://github.com/user-attachments/assets/fa2b748e-f2bc-47a0-869d-e7fe6e23e9ab" />
+
+
+
+I followed by running a second study this time with a finer mesh. Below are the graphs provided after running the study. The safety factor after this study is 2.4. 
+
+
+<img width="960" height="504" alt="Screenshot 2026-11-11 165452" src="https://github.com/user-attachments/assets/b2a8a476-55bf-4b79-a0d8-6f02c0c7ac5f" />
+
+
+<img width="960" height="504" alt="Screenshot 2026-11-11 165530" src="https://github.com/user-attachments/assets/4f2e74dc-fb38-4ec8-a931-ff0e8c8024e9" />
+
+
+<img width="960" height="504" alt="Screenshot 2026-11-11 165538" src="https://github.com/user-attachments/assets/ffaea6bc-7d7b-421d-9d97-aaef74507d33" />
+
+
+After calculating the values for convergence 
+
+Stress = 1.18%
+Displacement = 0.12%
+SF = 1.19%
+
+They are all below 7% which means they converged. 
+
+
+Even though there was convergence I decided to make my piece thick from 1 in to 1.5 inches. I though this would change the max stress in the middle of the part. I did make sure that after this change the part still met the constrains required. 
+
+
+I created a fine mesh to begin the simulation.
+
+
+<img width="960" height="504" alt="Screenshot 2026-11-11 170017" src="https://github.com/user-attachments/assets/64299d17-402d-4053-887a-6270ba12ffce" />
+
+
+
+After running the simulation these were my final graphs for stress and displacement. 
+
+
+
+<img width="960" height="504" alt="Screenshot 2026-11-11 170053" src="https://github.com/user-attachments/assets/92ef460c-d7a3-4e23-9af7-292e2c6e7df2" />
+
+
+<img width="960" height="504" alt="Screenshot 2026-11-11 170100" src="https://github.com/user-attachments/assets/e7abbeac-5795-4895-bc67-f9269ad3829d" />
+
+
+
+
 
 ## Lessons Learned - Yazahira
 
