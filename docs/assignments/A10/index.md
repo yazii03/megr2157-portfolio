@@ -9,8 +9,8 @@ The task was to assemble a quasi-tensile tester by designing a screw-drive cross
 
 1) In order to select my leadscrew I first have to find the minimum diameter needed for the leadscrew. I used the axial stress analysis equations to find the minimum diameter needed.
 
-   
-<img width="871" height="606" alt="image" src="https://github.com/user-attachments/assets/a5b5b9e6-8b75-49af-995c-00d7af011560" />
+   <img width="871" height="606" alt="image" src="https://github.com/user-attachments/assets/a5b5b9e6-8b75-49af-995c-00d7af011560" />
+
 The determined minimum diameter is 0.1380in.
 
 
@@ -18,6 +18,7 @@ The determined minimum diameter is 0.1380in.
 
    
 <img width="814" height="517" alt="image" src="https://github.com/user-attachments/assets/ec102cf6-cb0e-4864-91c8-70d2c4ff7649" />
+
 The determined range of rotational speed for the screw is 0.3937-19.685RPM.
 
 
@@ -25,6 +26,7 @@ The determined range of rotational speed for the screw is 0.3937-19.685RPM.
    
 
 <img width="885" height="532" alt="image" src="https://github.com/user-attachments/assets/6391fbc2-7cf6-4d1b-9ba1-a35db46b18a6" />
+
 The determine torque at this speed
 
 
@@ -111,7 +113,9 @@ I followed by running a second study this time with a finer mesh. Below are the 
 After calculating the values for convergence 
 
 Stress = 1.18%
+
 Displacement = 0.12%
+
 SF = 1.19%
 
 They are all below 7% which means they converged. 
