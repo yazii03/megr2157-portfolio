@@ -3,7 +3,7 @@
 ## Objective
 The task was to assemble a quasi-tensile tester by designing a screw-drive crosshead and selecting the required components. The assignment puts stress on selecting components based on the required force applied, stresses caused and geometries affecting the overall behavior of the materials. We had to evaluate the cost of the parts selected as well.
 
-## Lead Screw
+## Lead Screw - Yazahira
 1) Diameter
 
 2) Rotational Speed
@@ -12,17 +12,17 @@ The task was to assemble a quasi-tensile tester by designing a screw-drive cross
 
 4) Selection
 
-## Nut and Flange
+## Nut and Flange - Yazahira
 Thread Verification for Load
 
-## Crosshead
+## Crosshead - Milena
 1) Size + Material: Simple Beam Stress
 
 2) Size + Material: Deflection Analysis
 
 3) Multiview Paper Sketch
 
-## Costs
+## Costs - Milena
 Table
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
@@ -33,18 +33,17 @@ Table
 |804T38 |1 |T-Slot Framing System |$202.12 |$202.12 |https://www.grainger.com/product/80-20-T-Slot-Framing-System-15-Series-804T38 
 |LC103B-200 |1 |Load Cell| $349.56| $349.56| https://www.digikey.com/en/products/detail/omega/LC103B-200/25641942?gclsrc=aw.ds&gad_source=1&gad_campaignid=20243136172&gbraid=0AAAAADrbLlgO0kpqYMPhThlLdTwOcFLcR&gclid=Cj0KCQiAnsvXBhCqARIsAHKgGNbBoN82Wys6nRpzejUwxvXapOkhnu5bYxU6HeHkMHgI7gQFWMUO5JcaAgmxEALw_wcB 
 ||||Total Cost|$906.78
-----------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------
 
 
 
-## CAD Model
+## CAD Model - Milena
 During the CAD model design process, we reduced the scale of thre T-
 
 
+## MEGR 2157 - FEA - Yazahira
 
+## Lessons Learned
 
-## Decide
-_Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
-
-## Communicate
+## Links to Assembly and Components
 
