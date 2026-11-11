@@ -26,8 +26,8 @@ Thread Verification for Load
 Table
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-| Item               | Number             | Quantity           | Name               | Cost/Item          | Cost               | Purchase Link      |
-|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
+| Item Number | Quantity           | Name               | Cost/Item          | Cost               | Purchase Link      |
+|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
 |98935A911 |2 |Carbon Steel Acme Steel Screw| $6.95 |$13.90 |https://www.mcmaster.com/98935A911/ |
 |97790A110 |2 |932 Bearing Bronze- Flange Nut |$170.60 |$341.2 |https://www.mcmaster.com/97790A110/
 |804T38 |1 |T-Slot Framing System |$202.12 |$202.12 |https://www.grainger.com/product/80-20-T-Slot-Framing-System-15-Series-804T38 
