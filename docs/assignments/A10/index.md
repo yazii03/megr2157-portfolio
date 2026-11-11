@@ -32,7 +32,7 @@ Table
 |97790A110 |2 |932 Bearing Bronze- Flange Nut |$170.60 |$341.2 |https://www.mcmaster.com/97790A110/
 |804T38 |1 |T-Slot Framing System |$202.12 |$202.12 |https://www.grainger.com/product/80-20-T-Slot-Framing-System-15-Series-804T38 
 |LC103B-200 |1 |Load Cell| $349.56| $349.56| https://www.digikey.com/en/products/detail/omega/LC103B-200/25641942?gclsrc=aw.ds&gad_source=1&gad_campaignid=20243136172&gbraid=0AAAAADrbLlgO0kpqYMPhThlLdTwOcFLcR&gclid=Cj0KCQiAnsvXBhCqARIsAHKgGNbBoN82Wys6nRpzejUwxvXapOkhnu5bYxU6HeHkMHgI7gQFWMUO5JcaAgmxEALw_wcB 
-||||Total Cost|
+||||Total Cost|$906.78
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 
