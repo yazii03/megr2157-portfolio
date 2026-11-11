@@ -30,7 +30,7 @@ The determined range of rotational speed for the screw is 0.3937-19.685RPM.
 The determine torque at this speed
 
 
-6) After finishing  up all my calculations and finding all my missing values I was able to select my screw. Based on the minimum required height of 18 in. and my minimum diameter I decided to choose the acme leadscrew below made of carbon steel. I thought it'd be the best fit for the assignment. 
+4) After finishing  up all my calculations and finding all my missing values I was able to select my screw. Based on the minimum required height of 18 in. and my minimum diameter I decided to choose the acme leadscrew below made of carbon steel. I thought it'd be the best fit for the assignment. 
 
 
 <img width="960" height="436" alt="Screenshot 2026-11-11 171830" src="https://github.com/user-attachments/assets/fcc72e62-cb8e-440b-bcde-d1204f3debd5" />
@@ -39,7 +39,7 @@ The determine torque at this speed
 
 ## Nut and Flange - Yazahira
 
-In order to select the Nut/Flange for this assignment I had to the minimum amount of threads that'd be able to support the load required of 2kN. After finishing the calculations i choose the Nut Flange that i thought would be the best fit. 
+In order to select the Nut/Flange for this assignment I had to find the minimum amount of threads that'd be able to support the load required of 2kN. After finishing the calculations I choose the Nut Flange that I thought would be the best fit. 
 
 
 <img width="472" height="323" alt="Screenshot 2026-11-11 173143" src="https://github.com/user-attachments/assets/de87cc28-de04-40b1-a928-5d1618dfb1f4" />
@@ -50,12 +50,13 @@ In order to select the Nut/Flange for this assignment I had to the minimum amoun
 
 
 ## Crosshead - Milena
-1) Size + Material: Simple Beam Stress
+1)+2) Size + Material: Simple Beam Stress and Deflection Analysis
+In order to design the crosshead, it was important to determine the stresses acting on the crosshead. To verify the appropriate chosen dimensions, we had to do a deflection analysis. This ensure that the deflection of the crosshead, which we treated as a beam with both ends fixed, would support its load within the required specifications.
 
-2) Size + Material: Deflection Analysis
+
 
 3) Multiview Paper Sketch
-
+The multiview paper sketch showcases the crosshead from a front view, a too view and a side view.
 
 <img width="455" height="201" alt="Screenshot 2026-11-11 180225" src="https://github.com/user-attachments/assets/8a92cbe6-8947-4cf8-aec4-0bbf0e5db1fd" />
 
