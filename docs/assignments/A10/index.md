@@ -2,7 +2,7 @@
 
 ## Objective
 
-The task was to assemble a quasi-tensile tester by designing a screw-drive crosshead and selecting the required components. The assignment puts stress on selecting components based on the required force applied, stresses caused and geometries affecting the overall behavior of the materials. We had to evaluate the cost of the parts selected as well.
+The task was to assemble a tensile tester by designing a screw-drive crosshead and selecting the required components. The assignment puts stress on selecting components based on the required force applied, stresses caused and geometries affecting the overall behavior of the materials. We had to evaluate the cost of the parts selected as well.
 
 
 ## Lead Screw - Yazahira
