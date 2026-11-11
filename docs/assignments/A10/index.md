@@ -60,4 +60,10 @@ We learned a lot of important lessons with this assigment. The most important le
 
 ## Links to Assembly and Components
 
+Crosshead-
 
+[A10-Crosshead.zip](https://github.com/user-attachments/files/34715581/A10-Crosshead.zip)
+
+Assembly- 
+
+[A10_Assembly.zip](https://github.com/user-attachments/files/34715612/A10_Assembly.zip)
