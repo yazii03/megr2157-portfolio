@@ -96,6 +96,15 @@ Table
 ## CAD Model - Milena
 During the CAD model design process, I reduced the scale of the T-Slot framing system in order to make the length correspond to our needs. I matched the surfaces with mating features in order to make a sturdy geometry.
 
+I imported the T-slot:
+
+<img width="1096" height="235" alt="image" src="https://github.com/user-attachments/assets/3e2a6c89-7b5a-435c-b5d5-fe99277b51f7" />
+
+I reduced the sizing with the Insert > Features > Scale function.
+
+<img width="936" height="199" alt="image" src="https://github.com/user-attachments/assets/e7d22159-8d1f-4ca0-8d8c-745684821a99" />
+
+I matched the surfaces with mating features in order to make a sturdy geometry.
 
 This is what the final assembly with all the parts provided and crosshead I designed. 
 
