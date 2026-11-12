@@ -143,7 +143,9 @@ For the FEA I  took the crosshead that was designed by Milena and added the load
 <img width="960" height="504" alt="Screenshot 2026-11-11 164231" src="https://github.com/user-attachments/assets/1ffe74d8-705d-430e-9c20-d945e19b3ea0" />
 
 
+
 I created a medium coarse mesh to run the first FEA on this part. 
+
 
 
 <img width="960" height="504" alt="Screenshot 2026-11-11 164442" src="https://github.com/user-attachments/assets/7f4d2d1f-4801-4610-b4a1-4d5549ba0494" />
@@ -159,6 +161,7 @@ After running my simulation these where the graphs provided for Von Misses stres
 
 
 I followed by running a second study this time with a finer mesh. Below are the graphs provided after running the study. The safety factor after this study is 2.4. 
+
 
 
 <img width="960" height="504" alt="Screenshot 2026-11-11 165452" src="https://github.com/user-attachments/assets/b2a8a476-55bf-4b79-a0d8-6f02c0c7ac5f" />
@@ -203,7 +206,7 @@ After running the simulation these were my final graphs for stress and displacem
 
 ## Crosshead Drawing - Milena
 
-I designed the crosshead drawing according to ASME Y14.5 standards.
+I designed the crosshead drawing according to ASME Y14.5 standards. The link to the file is at the end of the document.
 
 <img width="1048" height="816" alt="image" src="https://github.com/user-attachments/assets/1292226f-22f6-480b-b5b5-e737db9412bd" />
 
