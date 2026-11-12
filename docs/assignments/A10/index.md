@@ -108,7 +108,7 @@ I reduced the sizing with the Insert > Features > Scale function.
 
 Next, I imported all components into an assembly. I copy and pasted any parts corresponding to their required amounts.
 
-<img width="1635" height="943" alt="image" src="https://github.com/user-attachments/assets/be84338c-f08b-4f91-9708-5ad86c91b2e3" />
+<img width="1645" height="943" alt="image" src="https://github.com/user-attachments/assets/bf47e2a9-b15c-4d75-a7a7-807e2ad5e8a6" />
 
 Then, I edited the parts' relations to one another. I matched the surfaces with mating features in order to make a sturdy geometry.
 
