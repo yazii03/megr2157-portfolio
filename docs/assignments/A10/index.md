@@ -57,23 +57,33 @@ In order to select the Nut/Flange for this assignment I had to find the minimum 
 
 In order to design the crosshead, it was important to determine the stresses acting on its geometry. To verify the appropriate chosen dimensions, we had to do a deflection analysis. This ensures that the deflection of the crosshead, which we treated as a beam with both ends fixed, would support its load within the required specifications.
 
+
 The known dimensions and wanted variables have been listed.
+
 
 <img width="924" height="576" alt="image" src="https://github.com/user-attachments/assets/ea335f0a-8823-4542-b697-ed6ba436345a" />
 
+
 The calculated axial stress under the given conditions is 12.5 psi. The yield strength of carbon steel is 60200 psi. Considering the safety factor of 4, this means that the allowed axial stress is 60200psi / 4 = 15050 psi. The calculated 12.5 psi is way below the allowed stress. We considered changing the material, however considering that it is a machine that is designed to stretch apart metals, we decided to keep the carbon steel material for the crossbeam. The lack of stress relative to its allowed maximum prevents excessive fatigue from repeated use over time.
+
 
 Next, I calculated the maximum deflection under the given conditions. 
 
+
 <img width="837" height="222" alt="image" src="https://github.com/user-attachments/assets/6dfea0ee-4ee5-41db-b68a-daa504e68a92" />
+
 
 I correct that the maximum deflection in the last line is actually 3.94x10^(-3), not 39.4x10^(-3).
 
+
 With a maximum deflection of 0.000559in, and a maximum allowed deflection of around 0.00394in, the results are within the allowable range. We are only at 14% of the allowed deflection. One may argue that we could change the material to reduce the overall productionb price of the crossbeam. However, in this exercise, we were not asked to consider price specifically as one of the deciding factors in our design. The benefits of a sturdy material, disregarding pricing, outweigh the chance of creating a critical component that will fail early on due to excessive repeative stress in exchange for lesser cost.
+
 
 3) Multiview Paper Sketch
 
+
 The multiview paper sketch showcases the crosshead from a front view, a top view and a side view. The material is Carbon Steel.
+
 
 <img width="455" height="201" alt="Screenshot 2026-11-11 180225" src="https://github.com/user-attachments/assets/8a92cbe6-8947-4cf8-aec4-0bbf0e5db1fd" />
 
@@ -192,13 +202,15 @@ After running the simulation these were my final graphs for stress and displacem
 
 
 ## Crosshead Drawing - Milena
+
 I designed the crosshead drawing according to ASME Y14.5 standards.
 
 <img width="1048" height="816" alt="image" src="https://github.com/user-attachments/assets/1292226f-22f6-480b-b5b5-e737db9412bd" />
 
+
 ## Lessons Learned - Yazahira
 
-We learned a lot of important lessons with this assigment. The most important lesson we learned was how to properly distrubute the work load and work as a team to assemble everything. We also learned how to use axial stress analysis to find the diameter of our leadscrew and choose one that would align with our design. We learneed how to use thread bending stress analysis to choose a nut that wouldfit our leadscrew properly. Learning how to properly assemble all of these parts and make them work togther was also a big lesson and skill that we got to practice on since we havent done many assembly assignments. We spent a lot of time selecting a proper material for the crosshead and we learned how many aspects go into that selction such as loading force, longevity and availability. Finally we spent approximatly 15 hrs on this assigment as a whole. 
+We learned a lot of important lessons with this assigment. The most important lesson we learned was how to properly distrubute the work load and work as a team to assemble everything. We learned how to use axial stress analysis to find the diameter of our leadscrew and choose one that would align with our design. We learned how to use thread bending stress analysis to choose a nut that would fit our lead screw properly. Learning how to properly assemble all of these parts and make them work together in SolidWorks was also a big skill that we got to practice since we havent done many assembly assignments. We spent a lot of time selecting a proper material for the crosshead and we learned how many aspects go into that selction such as loading force, longevity and availability. Finally we spent approximatly 15 hrs on this assigment as a whole. 
 
 
 
@@ -207,6 +219,10 @@ We learned a lot of important lessons with this assigment. The most important le
 Crosshead-
 
 [A10-Crosshead.zip](https://github.com/user-attachments/files/34715581/A10-Crosshead.zip)
+
+Modified T-Slot Frame-
+
+https://drive.google.com/file/d/17JVSgx9yDsT-I6QQELfhOLy1jh88mmQO/view?usp=sharing
 
 Assembly- 
 
