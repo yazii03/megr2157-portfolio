@@ -194,9 +194,9 @@ After running the simulation these were my final graphs for stress and displacem
 
 
 ## Crosshead Drawing - Milena
+I designed the crosshead drawing according to ASME Y14.5 standards.
 
-
-
+<img width="1048" height="816" alt="image" src="https://github.com/user-attachments/assets/1292226f-22f6-480b-b5b5-e737db9412bd" />
 
 ## Lessons Learned - Yazahira
 
@@ -213,3 +213,8 @@ Crosshead-
 Assembly- 
 
 [A10_Assembly.zip](https://github.com/user-attachments/files/34715612/A10_Assembly.zip)
+
+Crosshead Drawing-
+
+https://drive.google.com/file/d/1nJXs743CZaL6XLMNCWTA-TmUF-NGBPkc/view?usp=sharing
+
