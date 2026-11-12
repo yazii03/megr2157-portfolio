@@ -71,6 +71,8 @@ I correct that the maximum deflection in the last line is actually 3.94x10^(-3),
 
 With a maximum deflection of 0.000559in, and a maximum allowed deflection of around 0.00394in, the results are within the allowable range. We are only at 14% of the allowed deflection. One may argue that we could change the material to reduce the overall productionb price of the crossbeam. However, in this exercise, we were not asked to consider price specifically as one of the deciding factors in our design. The benefits of a sturdy material, disregarding pricing, outweigh the chance of creating a critical component that will fail early on due to excessive repeative stress in exchange for lesser cost.
 
+The material is Carbon Steel.
+
 3) Multiview Paper Sketch
 
 The multiview paper sketch showcases the crosshead from a front view, a top view and a side view.
@@ -94,7 +96,7 @@ Table
 
 
 ## CAD Model - Milena
-During the CAD model design process, I reduced the scale of the T-Slot framing system in order to make the length correspond to our needs. I matched the surfaces with mating features in order to make a sturdy geometry.
+During the CAD model design process, I reduced the scale of the T-Slot framing system in order to make the length correspond to our needs.
 
 I imported the T-slot:
 
@@ -106,16 +108,22 @@ I reduced the sizing with the Insert > Features > Scale function.
 
 I matched the surfaces with mating features in order to make a sturdy geometry.
 
-This is what the final assembly with all the parts provided and crosshead I designed. 
+<img width="1300" height="772" alt="image" src="https://github.com/user-attachments/assets/a7452e51-484f-4eb3-8844-1122e59998be" />
+
+This is what the final assembly with all the parts provided and the crosshead looks like.
+
+From the front:
 
 <img width="950" height="485" alt="Screenshot 2026-11-11 130505" src="https://github.com/user-attachments/assets/7d4f72a9-30fe-416c-ad41-3107aa0e6c7f" />
 
+In isometric view:
 
 <img width="950" height="485" alt="Screenshot 2026-11-11 130516" src="https://github.com/user-attachments/assets/8ddd9f37-246a-4b86-8029-5efd373c2274" />
 
 
+## MEGR 2157
 
-## MEGR 2157 - FEA - Yazahira
+## FEA - Yazahira
 
 For the FEA I  took the crosshead that was designed by Milena and added the load and proper fixed features on it. 
 
@@ -129,7 +137,6 @@ I created a medium coarse mesh to run the first FEA on this part.
 <img width="960" height="504" alt="Screenshot 2026-11-11 164442" src="https://github.com/user-attachments/assets/7f4d2d1f-4801-4610-b4a1-4d5549ba0494" />
 
 After running my simulation these where the graphs provided for Von Misses stress and Deflection. Based on the the values derived the safety factor is 9.5.
-
 
 
 <img width="960" height="504" alt="Screenshot 2026-11-11 164650" src="https://github.com/user-attachments/assets/6c58754a-7cc9-404c-b7f8-1d52104c1710" />
@@ -181,6 +188,8 @@ After running the simulation these were my final graphs for stress and displacem
 
 <img width="960" height="504" alt="Screenshot 2026-11-11 170100" src="https://github.com/user-attachments/assets/e7abbeac-5795-4895-bc67-f9269ad3829d" />
 
+
+## Crosshead Drawing - Milena
 
 
 
