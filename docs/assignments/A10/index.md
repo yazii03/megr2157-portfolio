@@ -9,7 +9,9 @@ The task was to assemble a tensile tester by designing a screw-drive crosshead a
 
 1) In order to select my leadscrew I first have to find the minimum diameter needed for the leadscrew. I used the axial stress analysis equations to find the minimum diameter needed. We did end up choosing steel as the material and used the yield strength and friction factor for this material in order to solve for the values. 
 
+
    <img width="871" height="606" alt="image" src="https://github.com/user-attachments/assets/a5b5b9e6-8b75-49af-995c-00d7af011560" />
+
 
 The determined minimum diameter is 0.1380in.
 
@@ -19,13 +21,15 @@ The determined minimum diameter is 0.1380in.
    
 <img width="814" height="517" alt="image" src="https://github.com/user-attachments/assets/ec102cf6-cb0e-4864-91c8-70d2c4ff7649" />
 
+
 The determined range of rotational speed for the screw is 0.3937-19.685RPM.
 
 
 3) Now i need to follow up by calculating the torque that would provide the load needed of 2kN. This would help me select my leadscrew. 
-   
 
+   
 <img width="885" height="532" alt="image" src="https://github.com/user-attachments/assets/6391fbc2-7cf6-4d1b-9ba1-a35db46b18a6" />
+
 
 The determine torque at this speed
 
@@ -34,7 +38,6 @@ The determine torque at this speed
 
 
 <img width="960" height="436" alt="Screenshot 2026-11-11 171830" src="https://github.com/user-attachments/assets/fcc72e62-cb8e-440b-bcde-d1204f3debd5" />
-
 
 
 ## Nut and Flange - Yazahira
@@ -50,13 +53,27 @@ In order to select the Nut/Flange for this assignment I had to find the minimum 
 
 
 ## Crosshead - Milena
-1)+2) Size + Material: Simple Beam Stress and Deflection Analysis
-In order to design the crosshead, it was important to determine the stresses acting on the crosshead. To verify the appropriate chosen dimensions, we had to do a deflection analysis. This ensure that the deflection of the crosshead, which we treated as a beam with both ends fixed, would support its load within the required specifications.
+1+2) Size + Material: Simple Beam Stress and Deflection Analysis
 
+In order to design the crosshead, it was important to determine the stresses acting on its geometry. To verify the appropriate chosen dimensions, we had to do a deflection analysis. This ensures that the deflection of the crosshead, which we treated as a beam with both ends fixed, would support its load within the required specifications.
 
+The known dimensions and wanted variables have been listed.
+
+<img width="924" height="576" alt="image" src="https://github.com/user-attachments/assets/ea335f0a-8823-4542-b697-ed6ba436345a" />
+
+The calculated axial stress under the given conditions is 12.5 psi. The yield strength of carbon steel is 60200 psi. Considering the safety factor of 4, this means that the allowed axial stress is 60200psi / 4 = 15050 psi. The calculated 12.5 psi is way below the allowed stress. We considered changing the material, however considering that it is a machine that is designed to stretch apart metals, we decided to keep the carbon steel material for the crossbeam. The lack of stress relative to its allowed maximum prevents excessive fatigue from repeated use over time.
+
+Next, I calculated the maximum deflection under the given conditions. 
+
+<img width="837" height="222" alt="image" src="https://github.com/user-attachments/assets/6dfea0ee-4ee5-41db-b68a-daa504e68a92" />
+
+I correct that the maximum deflection in the last line is actually 3.94x10^(-3), not 39.4x10^(-3).
+
+With a maximum deflection of 0.000559in, and a maximum allowed deflection of around 0.00394in, the results are within the allowable range. We are only at 14% of the allowed deflection. One may argue that we could change the material to reduce the overall productionb price of the crossbeam. However, in this exercise, we were not asked to consider price specifically as one of the deciding factors in our design. The benefits of a sturdy material, disregarding pricing, outweigh the chance of creating a critical component that will fail early on due to excessive repeative stress in exchange for lesser cost.
 
 3) Multiview Paper Sketch
-The multiview paper sketch showcases the crosshead from a front view, a too view and a side view.
+
+The multiview paper sketch showcases the crosshead from a front view, a top view and a side view.
 
 <img width="455" height="201" alt="Screenshot 2026-11-11 180225" src="https://github.com/user-attachments/assets/8a92cbe6-8947-4cf8-aec4-0bbf0e5db1fd" />
 
@@ -77,7 +94,7 @@ Table
 
 
 ## CAD Model - Milena
-During the CAD model design process, we reduced the scale of thre T-
+During the CAD model design process, I reduced the scale of the T-Slot framing system in order to make the length correspond to our needs. I matched the surfaces with mating features in order to make a sturdy geometry.
 
 
 This is what the final assembly with all the parts provided and crosshead I designed. 
