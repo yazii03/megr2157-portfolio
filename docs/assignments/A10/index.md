@@ -71,11 +71,9 @@ I correct that the maximum deflection in the last line is actually 3.94x10^(-3),
 
 With a maximum deflection of 0.000559in, and a maximum allowed deflection of around 0.00394in, the results are within the allowable range. We are only at 14% of the allowed deflection. One may argue that we could change the material to reduce the overall productionb price of the crossbeam. However, in this exercise, we were not asked to consider price specifically as one of the deciding factors in our design. The benefits of a sturdy material, disregarding pricing, outweigh the chance of creating a critical component that will fail early on due to excessive repeative stress in exchange for lesser cost.
 
-The material is Carbon Steel.
-
 3) Multiview Paper Sketch
 
-The multiview paper sketch showcases the crosshead from a front view, a top view and a side view.
+The multiview paper sketch showcases the crosshead from a front view, a top view and a side view. The material is Carbon Steel.
 
 <img width="455" height="201" alt="Screenshot 2026-11-11 180225" src="https://github.com/user-attachments/assets/8a92cbe6-8947-4cf8-aec4-0bbf0e5db1fd" />
 
