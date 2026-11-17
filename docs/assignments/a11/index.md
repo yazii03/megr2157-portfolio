@@ -25,6 +25,28 @@ This motor is NOT appropriate. It cannot reach the required ~20RPM with a ~20lbf
 <img width="1371" height="451" alt="image" src="https://github.com/user-attachments/assets/6f8295f2-1e04-412d-91ad-7b280a03c60d" />
 
 This motor is the first out of the list that goes above 20RPM. So it fulfills that requirement. We now inspect the speed-torque curve.
+
+<img width="757" height="589" alt="image" src="https://github.com/user-attachments/assets/5ee0e613-f28e-4afa-9104-541c342dfbb1" />
+
+<img width="747" height="573" alt="image" src="https://github.com/user-attachments/assets/cb4d3078-c1ee-4bbd-9019-0ea044364fe0" />
+
+Inspecting the possible ranges, this motor fulfills the required range and load based on torque.
+
+Just to make sure, inspecting the previous motor in the list, it is observable that this motor cannot reach the ~315in-oz at an RPM of 20. 
+
+<img width="754" height="580" alt="image" src="https://github.com/user-attachments/assets/16562909-8c2b-49c4-824b-8315692de7b1" />
+
+Considering that the motor that has the correct range is around $73, which is affordable compared to higher-end options, we shall select that motor.
+
+<img width="1918" height="907" alt="image" src="https://github.com/user-attachments/assets/4fc24422-8e27-4193-b623-a29b49886887" />
+
+Which has the following torque-speed chart:
+
+<img width="765" height="585" alt="image" src="https://github.com/user-attachments/assets/f670b268-19a8-4163-bfb1-91977dacc257" />
+
+
+
+
 ## Motor Mount Bracket Housing Design
 
 ## Coupler
