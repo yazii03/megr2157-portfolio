@@ -34,7 +34,7 @@ Just to make sure, inspecting the previous motor in the list, it is observable t
 
 <img width="377" height="290" alt="image" src="https://github.com/user-attachments/assets/16562909-8c2b-49c4-824b-8315692de7b1" />
 
-Considering that the motor that has the correct range is around $73, which is affordable compared to higher-end options, we shall select that motor.
+Considering that the previous motor that has the correct range is around $73, which is affordable compared to higher-end options, we shall select that motor:
 
 <img width="1439" height="680" alt="image" src="https://github.com/user-attachments/assets/4fc24422-8e27-4193-b623-a29b49886887" />
 
