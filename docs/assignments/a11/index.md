@@ -32,7 +32,7 @@ Inspecting the possible ranges, this motor fulfills the required range and load 
 
 Just to make sure, inspecting the previous motor in the list, it is observable that this motor cannot reach the ~315in-oz at an RPM of 20. 
 
-<img width="754" height="580" alt="image" src="https://github.com/user-attachments/assets/16562909-8c2b-49c4-824b-8315692de7b1" />
+<img width="377" height="290" alt="image" src="https://github.com/user-attachments/assets/16562909-8c2b-49c4-824b-8315692de7b1" />
 
 Considering that the motor that has the correct range is around $73, which is affordable compared to higher-end options, we shall select that motor.
 
