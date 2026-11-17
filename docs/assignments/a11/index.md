@@ -26,8 +26,6 @@ This motor is NOT appropriate. It cannot reach the required ~20RPM with a ~20lbf
 
 This motor is the first out of the list that goes above 20RPM. So it fulfills that requirement. We now inspect the speed-torque curve.
 
-<img width="757" height="589" alt="image" src="https://github.com/user-attachments/assets/5ee0e613-f28e-4afa-9104-541c342dfbb1" />
-
 <img width="747" height="573" alt="image" src="https://github.com/user-attachments/assets/cb4d3078-c1ee-4bbd-9019-0ea044364fe0" />
 
 Inspecting the possible ranges, this motor fulfills the required range and load based on torque.
