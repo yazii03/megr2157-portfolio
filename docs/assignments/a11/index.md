@@ -44,6 +44,7 @@ Which has the following torque-speed chart:
 
 <img width="765" height="585" alt="image" src="https://github.com/user-attachments/assets/f670b268-19a8-4163-bfb1-91977dacc257" />
 
+Link to Part: https://www.mcmaster.com/6409K17/
 
 
 
