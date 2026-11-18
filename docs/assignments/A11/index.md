@@ -72,12 +72,53 @@ After analyzing the twist caused by the motor on the frame I confirmed that the 
 <img width="938" height="417" alt="Screenshot 2026-11-18 113908" src="https://github.com/user-attachments/assets/f37972f8-5557-476d-8410-9c063fbb9aaa" />
 
 
-
-
-
-
- 
 ## FEA
+
+Top frame
+
+
+Vertical Components
+
+Now that I've run the FEA on the top frame I will run an FEA on a side frame. The frame material will remain the same. As the top frame. I added the axial and transverse load to the frame as well as the fixed geometry. 
+
+
+<img width="951" height="500" alt="Screenshot 2026-11-18 142458" src="https://github.com/user-attachments/assets/5fafa718-421e-439e-92a6-a6f4137edf81" />
+
+
+<img width="535" height="320" alt="Screenshot 2026-11-18 142707" src="https://github.com/user-attachments/assets/4838094b-dba5-4be7-9f8d-d590c5283598" />
+
+
+I ran the first simulation with a medium coarse mesh. These were the resulting graphs for Von Misses Stress and deflection. The graphs also graph where the maximum stress and deflection points are and their value. 
+
+
+<img width="551" height="343" alt="Screenshot 2026-11-18 143758" src="https://github.com/user-attachments/assets/f6c6e5c2-80ab-4c61-b543-7b9decc85a4d" />
+
+
+<img width="578" height="328" alt="Screenshot 2026-11-18 143914" src="https://github.com/user-attachments/assets/7e547545-b346-45ce-939f-774a22a36fcd" />
+
+
+I then ran another simulation everything staying the same but this time with a fine mesh. 
+
+
+<img width="767" height="365" alt="Screenshot 2026-11-18 150100" src="https://github.com/user-attachments/assets/58d19e3b-3950-4170-ac63-28206c509265" />
+
+
+
+<img width="497" height="326" alt="Screenshot 2026-11-18 145933" src="https://github.com/user-attachments/assets/20f2b80b-71fa-40f7-906e-fe3ac50bb426" />
+
+After finishing up both simulations I checked for convergence and these were my values. 
+
+
+
+|SF | Stress|Deflection|
+----------------------
+1|
+------------------------
+2|
+------------------------
+Final|
+
+
 
 
 
