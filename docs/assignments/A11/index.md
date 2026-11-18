@@ -111,12 +111,9 @@ After finishing up both simulations I checked for convergence and these were my 
 
 
 |   | SF    | Stress    |Deflection|
-|---|-------|-----------|----------|
-|1  |
-|---|-------|-----------|----------|
-|2  |-------|-----------|----------|
-|---|-------|-----------|----------|
-|Final|-----|-----------|----------|
+|1  |0.27| 1.496x10^4 psi |6.912 mm|
+|2  |0.25|1.584x10^4 psi| | 6.913 mm|
+|Convergence||||
 
 
 
