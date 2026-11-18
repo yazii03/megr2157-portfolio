@@ -69,7 +69,7 @@ After analyzing the twist caused by the motor on the frame I confirmed that the 
  Based on the information I have I decided on this frame connector. 
 
 
-<img width="943" height="422" alt="Screenshot 2026-11-18 112718" src="https://github.com/user-attachments/assets/2e0bdfc1-8f95-4cef-bac2-b0f1cbe08e21" />
+<img width="938" height="417" alt="Screenshot 2026-11-18 113908" src="https://github.com/user-attachments/assets/f37972f8-5557-476d-8410-9c063fbb9aaa" />
 
 
 
@@ -100,5 +100,4 @@ Links -
 
 Frame connectors-
 
-https://www.grainger.com/product/80-20-Inside-Corner-Bracket-Inside-5JRP8
-
+https://www.grainger.com/product/80-20-Inside-Corner-Bracket-Inside-2RCW3
