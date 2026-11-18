@@ -65,6 +65,18 @@ After analyzing the twist caused by the motor on the frame I confirmed that the 
 <img width="557" height="280" alt="Screenshot 2026-11-18 103852" src="https://github.com/user-attachments/assets/66d535a8-a9ba-41aa-8975-eb14cdf4e4c6" />
 
 
+
+ Based on the information I have I decided on this frame connector. 
+
+
+<img width="943" height="422" alt="Screenshot 2026-11-18 112718" src="https://github.com/user-attachments/assets/2e0bdfc1-8f95-4cef-bac2-b0f1cbe08e21" />
+
+
+
+
+
+
+ 
 ## FEA
 
 
@@ -78,3 +90,15 @@ After analyzing the twist caused by the motor on the frame I confirmed that the 
 ## Lessons Learned
 
 ## Drawing
+
+
+
+
+
+
+Links -
+
+Frame connectors-
+
+https://www.grainger.com/product/80-20-Inside-Corner-Bracket-Inside-5JRP8
+
