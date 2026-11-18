@@ -110,10 +110,10 @@ After finishing up both simulations I checked for convergence and these were my 
 
 
 
-|SF | Stress|Deflection|
-----------------------
-1|
-------------------------
+|   | SF    | Stress    |Deflection|
+|---|-------|-----------|----------|
+|1  |
+
 2|
 ------------------------
 Final|
