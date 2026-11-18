@@ -50,9 +50,26 @@ Link to Part: https://www.mcmaster.com/6409K17/
 
 ## Coupler
 
+Analyze and Design a Frame 
+
+
+
+
 ## Frame 
 
+Before working on the FEA i had to analyze the twist caused by the motors and find the forces required to stabilize the top of the frame. 
+
+After analyzing the twist caused by the motor on the frame I confirmed that the frame would be able to handle the stressed caused by the motors. I also found the force on each side of the frame where the motors would be. 
+
+
+<img width="557" height="280" alt="Screenshot 2026-11-18 103852" src="https://github.com/user-attachments/assets/66d535a8-a9ba-41aa-8975-eb14cdf4e4c6" />
+
+
 ## FEA
+
+
+
+
 
 ## Bearing Mount Design
 
