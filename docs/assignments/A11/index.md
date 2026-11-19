@@ -298,7 +298,7 @@ This is what my design for the bearing mount looks like.I made the mount 3x3 bec
 <img width="443" height="248" alt="Screenshot 2026-11-18 215037" src="https://github.com/user-attachments/assets/34eabbbc-9b6b-4644-883a-3da8b9822307" />
 
 
-## Costs
+## Costs (Milena)
 
 Bill of Material
 ---------------------------------------------------------------------------------------------------------------------------------------------------
@@ -323,10 +323,11 @@ Design Cost
 
 ## Lessons Learned (Yazahira) (Milena)
 
-
+Yazahira:
 With this assignment we learned more about motors. We learned how to correctly read a motor graph and choose a motor based on that graph that would correctly fit our needed torque and rpm. With this assignment I struggled a lot with the FEA and adding the correct loads to the frames. Our safety factor for the frames were both terribly low. The top frame completely twists. Im not sure if its the way i added the torque on the frame or the material. The material could be changed into something stronger like i mentioned before which i believe could help. Ultimately I learned I  need more practice running FEAs to correctly add all the parts and have then run how they should. Both our vertical and top frame failed but i learned more about running FEAs.
 
-
+Milena:
+Building on the aforementioned lessons, for this assignment, we expanded our knowledge on how to select component dimensions based on stress and shear stress analysis. We further learned about including labor cost in our financial break-down, and had more freedom to choose additional components for our design parts, so we became more experienced with part selection on McMaster-Carr.
 
 ## Drawing
 
