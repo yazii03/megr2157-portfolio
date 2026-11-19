@@ -358,14 +358,30 @@ Assembly:
 
 
 
-Links/ Files:
+Links/ Files
+
+Assembly:
+https://drive.google.com/file/d/1jvs3zJaRhWwpZOseqy1sttTnRuknASGv/view?usp=sharing
 
 Bearing Mount:
-
 [Bearing Mount.zip](https://github.com/user-attachments/files/35063638/Bearing.Mount.zip)
 
+Crosshead: 
+https://github.com/user-attachments/files/34715581/A10-Crosshead.zip
+
+Coupler: 
+https://drive.google.com/file/d/1GuYkOA52rBS0G1NjtK-RXSCid_3poeph/view?usp=sharing
+
+Bracket: 
+https://drive.google.com/file/d/1Zvus47xIyk_wDwblzxl0XrPstExCGH9W/view?usp=sharing
 
 Frame connectors-
-
 https://www.grainger.com/product/80-20-Inside-Corner-Bracket-Inside-2RCW7
+
+Drawings
+Assembly: https://drive.google.com/file/d/1uv5e6CHI4BamPSoJpvlyusi8F6wJ0cF1/view?usp=sharing
+Bearing Mount: https://drive.google.com/file/d/1BaNCaJZN-w9a922esPNYgBY0_WvW0srY/view?usp=sharing
+Crosshead: https://drive.google.com/file/d/1pujiDOheSiMVagM07jkx1YiQIuYr1rcw/view?usp=sharing
+Coupler: https://drive.google.com/file/d/15NqupJznTeGRP_lSAphICiyA7gY0lpIo/view?usp=sharing
+Bracket: https://drive.google.com/file/d/16rjLPQL1Cs2SYSnDRxgf8m4yrTM6NGv1/view?usp=sharing
 
