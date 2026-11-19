@@ -106,24 +106,27 @@ I then ran another simulation everything staying the same but this time with a f
 
 <img width="497" height="326" alt="Screenshot 2026-11-18 145933" src="https://github.com/user-attachments/assets/20f2b80b-71fa-40f7-906e-fe3ac50bb426" />
 
-After finishing up both simulations I checked for convergence and these were my values. 
-
+After finishing up both simulations I checked for convergence and these were my values. All the values did converge on the after the first two simulations with different sized mesh. However the safety factor is too low.
 
 
 |   | SF    | Stress    |Deflection|
 |---|-----|--------------|-----------
 |1  |0.27| 1.496x10^4 psi |6.912 mm|
-||||
 |2  |0.25|1.584x10^4 psi|  6.913 mm|
 |Convergence| 0.1%|  0.1%| 0%|
 
 
-
-
-
-
+Since the safety factor is way to low that being below 1. This would main our frame would most likely fail. A change that we propose could help the frame from failing would be a changing the material. A material with a higher yield strength would help the frame hold despite the forces acting on it currently. The locations of the maximum stress and deflection didn't change and the values didn't change much either. I believe changing the material would lead to better results. 
 
 ## Bearing Mount Design
+
+
+
+
+
+
+
+
 
 ## Costs
 
