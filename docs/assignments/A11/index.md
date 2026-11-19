@@ -329,7 +329,21 @@ With this assignment we learned more about motors. We learned how to correctly r
 Milena:
 Building on the aforementioned lessons, for this assignment, we expanded our knowledge on how to select component dimensions based on stress and shear stress analysis. We further learned about including labor cost in our financial break-down, and had more freedom to choose additional components for our design parts, so we became more experienced with part selection on McMaster-Carr.
 
-## Drawing
+## Drawings (Milena)
+
+This part is completed in our portfolios. Due to time restraints, in the pdf, it may not be complete yet. Please view the portfolios for the complete list.
+
+Crosshead:
+
+<img width="875" height="678" alt="image" src="https://github.com/user-attachments/assets/fc7e80aa-7d57-4900-8b69-d101d2a03639" />
+
+Bracket:
+
+Coupler:
+
+Bearing Mount:
+
+Assembly:
 
 
 
