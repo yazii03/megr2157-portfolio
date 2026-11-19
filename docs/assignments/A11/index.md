@@ -75,12 +75,17 @@ Top frame
 
 The first FEA I will run will be on the Top frame. I began by adding the torque and the fixed geometry on the top frame before starting the analysis. I ran an analysis with a medium coarse mesh and followed by a fine mesh in order to test for convergence.
 
+From both I got Von Misses stress and deflection graphs.
+
+<img width="775" height="344" alt="Screenshot 2026-11-18 230416" src="https://github.com/user-attachments/assets/93442718-5005-4dc1-bc31-62a507ea0b5f" />
+
+<img width="755" height="349" alt="Screenshot 2026-11-18 230539" src="https://github.com/user-attachments/assets/39eac69a-7fc0-4684-9224-a32e87fcdfd7" />
 
 
 
 |   | SF    | Stress    |Deflection|
 |---|-----|--------------|-----------
-|1  |0.27| 1.496x10^4 psi |6.912 mm|
+|1  |35.52| 1.126x10^2 psi |8.653x10^-4 mm|
 |2  |0.25|1.584x10^4 psi|  6.913 mm|
 |Convergence| 0.1%|  0.1%| 0%|
 
