@@ -122,14 +122,14 @@ Since the safety factor is way to low that being below 1. This would main our fr
 <img width="466" height="280" alt="Screenshot 2026-11-18 213543" src="https://github.com/user-attachments/assets/842c5811-ea4f-4665-aaa1-3f3f975416cc" />
 
 
-This is what my design for the bearing mount looks like.I made the mount 3x3 because the width of the frame we used is 3 in. I made the middle hole where the screw would go .5 in diameter since that is the diameter of the lead screw. According to the Machinery Handbook the clearance for this hole for an RC3 fir is +.6 - 0. I decided to use  1/4 in bolts that are 2 in apart for his mount. 
+This is what my design for the bearing mount looks like.I made the mount 3x3 because the width of the frame we used is 3 in. I made the middle hole where the screw would go .5 in diameter since that is the diameter of the lead screw. According to the Machinery Handbook the clearance for this hole for an RC3 fir is +.6 - 0. I decided to use  1/4 in bolts that are 2 in apart for his mount. Based on the book i made the holes for the bolts 0.266 in in diameter. 
+
 
 
 <img width="683" height="346" alt="Screenshot 2026-11-18 205308" src="https://github.com/user-attachments/assets/c45c3c5c-d76a-43a1-b1d4-62a61652dfe5" />
 
 
-
-
+<img width="443" height="248" alt="Screenshot 2026-11-18 215037" src="https://github.com/user-attachments/assets/34eabbbc-9b6b-4644-883a-3da8b9822307" />
 
 
 ## Costs
@@ -147,7 +147,7 @@ Links/ Files:
 
 Bearing Mount:
 
-[Bearing Mount.zip](https://github.com/user-attachments/files/35063437/Bearing.Mount.zip)
+[Bearing Mount.zip](https://github.com/user-attachments/files/35063638/Bearing.Mount.zip)
 
 
 Frame connectors-
