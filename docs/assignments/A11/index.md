@@ -346,6 +346,8 @@ Coupler:
 <img width="943" height="729" alt="image" src="https://github.com/user-attachments/assets/ffc54f47-b4ab-4768-be02-6e45021ed579" />
 
 Bearing Mount:
+<img width="961" height="750" alt="image" src="https://github.com/user-attachments/assets/0d123b4b-f115-466c-9ea4-4a6fc59f8bce" />
+
 
 Assembly:
 
