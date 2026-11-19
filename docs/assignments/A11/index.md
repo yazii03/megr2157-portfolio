@@ -69,7 +69,7 @@ After analyzing the twist caused by the motor on the frame I confirmed that the 
  Based on the information I have I decided on this frame connector. 
 
 
-<img width="938" height="417" alt="Screenshot 2026-11-18 113908" src="https://github.com/user-attachments/assets/f37972f8-5557-476d-8410-9c063fbb9aaa" />
+<img width="921" height="398" alt="Screenshot 2026-11-18 200101" src="https://github.com/user-attachments/assets/b7521f91-0250-49a9-82ab-082e823d62a0" />
 
 
 ## FEA
