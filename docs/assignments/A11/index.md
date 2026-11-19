@@ -339,11 +339,17 @@ Crosshead:
 
 Bracket:
 
+<img width="1015" height="793" alt="image" src="https://github.com/user-attachments/assets/b0bd3fa7-574f-4a7d-a3ee-aad7872bddb5" />
+
 Coupler:
+
+<img width="943" height="729" alt="image" src="https://github.com/user-attachments/assets/ffc54f47-b4ab-4768-be02-6e45021ed579" />
 
 Bearing Mount:
 
 Assembly:
+
+<img width="1101" height="855" alt="image" src="https://github.com/user-attachments/assets/4b07ba98-f2e7-4f11-a3da-25ba185e256a" />
 
 
 
