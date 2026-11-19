@@ -118,7 +118,14 @@ Since the safety factor is way to low that being below 1. This would main our fr
 ## Bearing Mount Design (Yazahira)
 
 
+<img width="444" height="352" alt="Screenshot 2026-11-18 213641" src="https://github.com/user-attachments/assets/b95717c4-ca6b-4feb-8a28-c2757e89ac91" />
+<img width="466" height="280" alt="Screenshot 2026-11-18 213543" src="https://github.com/user-attachments/assets/842c5811-ea4f-4665-aaa1-3f3f975416cc" />
 
+
+This is what my design for the bearing mount looks like.I made the mount 3x3 because the width of the frame we used is 3 in. I made the middle hole where the screw would go .5 in diameter since that is the diameter of the lead screw. According to the Machinery Handbook the clearance for this hole for an RC3 fir is +.6 - 0. I decided to use  1/4 in bolts that are 2 in apart for his mount. 
+
+
+<img width="683" height="346" alt="Screenshot 2026-11-18 205308" src="https://github.com/user-attachments/assets/c45c3c5c-d76a-43a1-b1d4-62a61652dfe5" />
 
 
 
@@ -136,7 +143,12 @@ Since the safety factor is way to low that being below 1. This would main our fr
 
 
 
-Links -
+Links/ Files:
+
+Bearing Mount:
+
+[Bearing Mount.zip](https://github.com/user-attachments/files/35063437/Bearing.Mount.zip)
+
 
 Frame connectors-
 
