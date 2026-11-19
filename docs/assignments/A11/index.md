@@ -81,14 +81,27 @@ From both I got Von Misses stress and deflection graphs.
 
 <img width="755" height="349" alt="Screenshot 2026-11-18 230539" src="https://github.com/user-attachments/assets/39eac69a-7fc0-4684-9224-a32e87fcdfd7" />
 
+These are the results with the fine mesh analysis. 
+
+
+
+<img width="758" height="353" alt="Screenshot 2026-11-18 233055" src="https://github.com/user-attachments/assets/186ee8a6-7683-4013-bf45-7f2f7671e236" />
+
+
+<img width="743" height="350" alt="Screenshot 2026-11-18 233149" src="https://github.com/user-attachments/assets/4d85d0d9-46bc-49b6-be2d-e5c524d0d60b" />
+
+After finishing both analysis i tested for convergence.
+
 
 
 |   | SF    | Stress    |Deflection|
 |---|-----|--------------|-----------
 |1  |35.52| 1.126x10^2 psi |8.653x10^-4 mm|
-|2  |0.25|1.584x10^4 psi|  6.913 mm|
-|Convergence| 0.1%|  0.1%| 0%|
+|2  |27.91|1.433x10^2 psi|8.668x10^-4  mm|
+|Convergence| 0.24%|  0.24%| 0%|
 
+
+There was convergence however our frame failed the analysis. The frames twist is too large and wouldn't be able to handle a big load. A way to fix this could be changing the material of the frame into something stronger that can handle more load. Making the frame thicker i think would also help prevent this much twist on it. 
 
 Vertical Components
 
@@ -150,10 +163,10 @@ This is what my design for the bearing mount looks like.I made the mount 3x3 bec
 
 ## Costs
 
-## Lessons Learned
+## Lessons Learned (Yazahira)
 
 
-With this assignment we learned more about motors. We learned how to correctly read a motor graph and choose a mottor based on that graph that would correctly fit our needed torque and rpm. With this assignment I struggled a lot with the FEA and adding the correct loads to the frames. Our safety factor for the frames were both terribly low. The top frame completly twists. Im not sure if its the way i added the torque on the frame or the material. But i learned I  need more practice running FEAs to correctly add all the parts and have then run how they should. Both our vertical and top frame failed but i learned more about running FEAs. 
+With this assignment we learned more about motors. We learned how to correctly read a motor graph and choose a motor based on that graph that would correctly fit our needed torque and rpm. With this assignment I struggled a lot with the FEA and adding the correct loads to the frames. Our safety factor for the frames were both terribly low. The top frame completely twists. Im not sure if its the way i added the torque on the frame or the material. The material could be changed into something stronger like i mentioned before which i believe could help. Ultimately I learned I  need more practice running FEAs to correctly add all the parts and have then run how they should. Both our vertical and top frame failed but i learned more about running FEAs. 
 
 ## Drawing
 
