@@ -116,8 +116,8 @@ After finishing up both simulations I checked for convergence and these were my 
 ||||
 |2  |0.25|1.584x10^4 psi|  6.913 mm|
 |---|-----|--------------|-----------
-|Convergence||||
-|---|-----|--------------|-----------
+|Convergence| 0.1%|  0.1%| 0%|
+
 
 
 
