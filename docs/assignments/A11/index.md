@@ -140,4 +140,5 @@ Links -
 
 Frame connectors-
 
-https://www.grainger.com/product/80-20-Inside-Corner-Bracket-Inside-2RCW3
+https://www.grainger.com/product/80-20-Inside-Corner-Bracket-Inside-2RCW7
+
