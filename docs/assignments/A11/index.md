@@ -73,6 +73,17 @@ After analyzing the twist caused by the motor on the frame I confirmed that the 
 
 Top frame
 
+The first FEA I will run will be on the Top frame. I began by adding the torque and the fixed geometry on the top frame before starting the analysis. I ran an analysis with a medium coarse mesh and followed by a fine mesh in order to test for convergence.
+
+
+
+
+|   | SF    | Stress    |Deflection|
+|---|-----|--------------|-----------
+|1  |0.27| 1.496x10^4 psi |6.912 mm|
+|2  |0.25|1.584x10^4 psi|  6.913 mm|
+|Convergence| 0.1%|  0.1%| 0%|
+
 
 Vertical Components
 
