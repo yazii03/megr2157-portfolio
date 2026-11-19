@@ -300,10 +300,33 @@ This is what my design for the bearing mount looks like.I made the mount 3x3 bec
 
 ## Costs
 
-## Lessons Learned (Yazahira)
+Bill of Material
+---------------------------------------------------------------------------------------------------------------------------------------------------
+| Item Number | Quantity           | Name               | Cost/Item          | Cost               | Purchase Link      |
+|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
+|98935A911 |2 |Carbon Steel Acme Steel Screw| $6.95 |$13.90 |https://www.mcmaster.com/98935A911/ |
+|97790A110 |2 |932 Bearing Bronze- Flange Nut |$170.60 |$341.2 |https://www.mcmaster.com/97790A110/
+|804T38 |1 |T-Slot Framing System |$202.12 |$202.12 |https://www.grainger.com/product/80-20-T-Slot-Framing-System-15-Series-804T38 
+|LC103B-200 |1 |Load Cell| $349.56| $349.56| https://www.digikey.com/en/products/detail/omega/LC103B-200/25641942?gclsrc=aw.ds&gad_source=1&gad_campaignid=20243136172&gbraid=0AAAAADrbLlgO0kpqYMPhThlLdTwOcFLcR&gclid=Cj0KCQiAnsvXBhCqARIsAHKgGNbBoN82Wys6nRpzejUwxvXapOkhnu5bYxU6HeHkMHgI7gQFWMUO5JcaAgmxEALw_wcB 
+|90760A150|1|Steel Narrow-Profile Hex Nuts|$6.73|$6.73|https://www.mcmaster.com/90760A150/|
+|92200A192|1|Mil. Spec. 18-8 Stainless Steel Socket Head Screw|$4.46 |$4.46 |https://www.mcmaster.com/92200A192/|
+||||Total Cost|$917.97
+
+Design Cost
+---------------------------------------------------------------------------------------------------------------------------------------------------
+| Person | Hours Worked           | Cost/Hour              | Cost         | 
+|--------------------|--------------------|--------------------|--------------------|
+|Yazahira |9 |$35| $315.00 |
+|Milena |9 |$35|$315.00|
+||||Total Cost|$630.00
 
 
-With this assignment we learned more about motors. We learned how to correctly read a motor graph and choose a motor based on that graph that would correctly fit our needed torque and rpm. With this assignment I struggled a lot with the FEA and adding the correct loads to the frames. Our safety factor for the frames were both terribly low. The top frame completely twists. Im not sure if its the way i added the torque on the frame or the material. The material could be changed into something stronger like i mentioned before which i believe could help. Ultimately I learned I  need more practice running FEAs to correctly add all the parts and have then run how they should. Both our vertical and top frame failed but i learned more about running FEAs. 
+## Lessons Learned (Yazahira) (Milena)
+
+
+With this assignment we learned more about motors. We learned how to correctly read a motor graph and choose a motor based on that graph that would correctly fit our needed torque and rpm. With this assignment I struggled a lot with the FEA and adding the correct loads to the frames. Our safety factor for the frames were both terribly low. The top frame completely twists. Im not sure if its the way i added the torque on the frame or the material. The material could be changed into something stronger like i mentioned before which i believe could help. Ultimately I learned I  need more practice running FEAs to correctly add all the parts and have then run how they should. Both our vertical and top frame failed but i learned more about running FEAs.
+
+
 
 ## Drawing
 
