@@ -136,6 +136,9 @@ This is what my design for the bearing mount looks like.I made the mount 3x3 bec
 
 ## Lessons Learned
 
+
+With this assignment we learned more about motors. We learned how to correctly read a motor graph and choose a mottor based on that graph that would correctly fit our needed torque and rpm. With this assignment I struggled a lot with the FEA and adding the correct loads to the frames. Our safety factor for the frames were both terribly low. The top frame completly twists. Im not sure if its the way i added the torque on the frame or the material. But i learned I  need more practice running FEAs to correctly add all the parts and have then run how they should. Both our vertical and top frame failed but i learned more about running FEAs. 
+
 ## Drawing
 
 
