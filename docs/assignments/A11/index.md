@@ -50,12 +50,9 @@ Link to Part: https://www.mcmaster.com/6409K17/
 
 ## Coupler
 
-Analyze and Design a Frame 
+## Analyze and Design a Frame (Yazahira)
 
-
-
-
-## Frame 
+The Frame 
 
 Before working on the FEA i had to analyze the twist caused by the motors and find the forces required to stabilize the top of the frame. 
 
@@ -72,7 +69,7 @@ After analyzing the twist caused by the motor on the frame I confirmed that the 
 <img width="921" height="398" alt="Screenshot 2026-11-18 200101" src="https://github.com/user-attachments/assets/b7521f91-0250-49a9-82ab-082e823d62a0" />
 
 
-## FEA
+ The FEA
 
 Top frame
 
@@ -118,7 +115,7 @@ After finishing up both simulations I checked for convergence and these were my 
 
 Since the safety factor is way to low that being below 1. This would main our frame would most likely fail. A change that we propose could help the frame from failing would be a changing the material. A material with a higher yield strength would help the frame hold despite the forces acting on it currently. The locations of the maximum stress and deflection didn't change and the values didn't change much either. I believe changing the material would lead to better results. 
 
-## Bearing Mount Design
+## Bearing Mount Design (Yazahira)
 
 
 
